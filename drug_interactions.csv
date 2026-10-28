@@ -1,0 +1,1731 @@
+Drug_A,Drug_B,Severity,Warning
+Alcohol,Allopurinol,Low,No significant interaction
+Alcohol,Alprazolam,High,Increased sedation and respiratory depression
+Alcohol,Amiodarone,Moderate,Increased sedation and hypotension
+Alcohol,Amlodipine,Low,No significant interaction
+Alcohol,Apixaban,Moderate,Increased bleeding risk
+Alcohol,Aspirin,Moderate,Increased gastrointestinal bleeding
+Alcohol,Atenolol,Low,No significant interaction
+Alcohol,Atorvastatin,Low,No significant interaction
+Alcohol,Carbamazepine,Moderate,Increased sedation and altered levels
+Alcohol,Celecoxib,Moderate,Increased gastrointestinal bleeding
+Alcohol,Citalopram,Moderate,Increased sedation and serotonin risk
+Alcohol,Clopidogrel,Moderate,Increased bleeding risk
+Alcohol,Codeine,High,Respiratory depression and increased sedation
+Alcohol,Colchicine,Low,No significant interaction
+Alcohol,Dabigatran,Moderate,Increased bleeding risk
+Alcohol,Diazepam,High,Severe respiratory depression and sedation
+Alcohol,Diclofenac,Moderate,Increased gastrointestinal bleeding
+Alcohol,Digoxin,Moderate,Altered digoxin levels and hypotension
+Alcohol,Diltiazem,Moderate,Hypotension and increased sedation
+Alcohol,Fluoxetine,Moderate,Increased sedation and serotonin risk
+Alcohol,Furosemide,Moderate,Hypotension and electrolyte imbalance
+Alcohol,Gabapentin,Moderate,Increased sedation and dizziness
+Alcohol,Hydrochlorothiazide,Moderate,Hypotension and electrolyte imbalance
+Alcohol,Ibuprofen,Moderate,Increased gastrointestinal bleeding
+Alcohol,Lansoprazole,Low,No significant interaction
+Alcohol,Levothyroxine,Low,No significant interaction
+Alcohol,Lisinopril,Moderate,Hypotension and renal impairment risk
+Alcohol,Lithium,Moderate,Dehydration and lithium toxicity risk
+Alcohol,Losartan,Moderate,Hypotension and renal impairment risk
+Alcohol,Metformin,High,Lactic acidosis risk
+Alcohol,Metoprolol,Moderate,Hypotension and bradycardia
+Alcohol,Morphine,High,Severe respiratory depression and sedation
+Alcohol,Naproxen,Moderate,Increased gastrointestinal bleeding
+Alcohol,Olanzapine,Moderate,Increased sedation and hypotension
+Alcohol,Omeprazole,Low,No significant interaction
+Alcohol,Pantoprazole,Low,No significant interaction
+Alcohol,Paracetamol,High,Hepatotoxicity risk (especially with chronic use)
+Alcohol,Phenytoin,Moderate,Altered phenytoin levels and sedation
+Alcohol,Prednisolone,Moderate,Increased gastrointestinal bleeding and fluid retention
+Alcohol,Quetiapine,Moderate,Increased sedation and hypotension
+Alcohol,Ramipril,Moderate,Hypotension and renal impairment risk
+Alcohol,Rivaroxaban,Moderate,Increased bleeding risk
+Alcohol,Rosuvastatin,Low,No significant interaction
+Alcohol,Sertraline,Moderate,Increased sedation and serotonin risk
+Alcohol,Simvastatin,Low,No significant interaction
+Alcohol,Spironolactone,Moderate,Hypotension and hyperkalemia risk
+Alcohol,Ticagrelor,Moderate,Increased bleeding risk
+Alcohol,Tramadol,High,Respiratory depression and serotonin syndrome risk
+Alcohol,Valproate,Moderate,Increased sedation and hepatotoxicity risk
+Alcohol,Valsartan,Moderate,Hypotension and renal impairment risk
+Alcohol,Verapamil,Moderate,Hypotension and bradycardia
+Alcohol,Warfarin,Moderate,Increased bleeding or decreased anticoagulant effect
+Allopurinol,Alprazolam,Low,No significant interaction
+Allopurinol,Amiodarone,Moderate,Increased amiodarone levels
+Allopurinol,Amlodipine,Low,No significant interaction
+Allopurinol,Apixaban,Low,No significant interaction
+Allopurinol,Aspirin,Moderate,Decreased allopurinol effect (increased uric acid)
+Allopurinol,Atenolol,Low,No significant interaction
+Allopurinol,Atorvastatin,Low,No significant interaction
+Aspirin, Paracetamol,Low,No significant interaction
+Allopurinol,Carbamazepine,Moderate,Increased carbamazepine toxicity
+Allopurinol,Celecoxib,Low,No significant interaction
+Allopurinol,Citalopram,Low,No significant interaction
+Allopurinol,Clopidogrel,Low,No significant interaction
+Allopurinol,Codeine,Low,No significant interaction
+Allopurinol,Colchicine,High,"Increased colchicine toxicity (myelosuppression, neuropathy)"
+Allopurinol,Dabigatran,Low,No significant interaction
+Allopurinol,Diazepam,Low,No significant interaction
+Allopurinol,Diclofenac,Low,No significant interaction
+Allopurinol,Digoxin,Low,No significant interaction
+Allopurinol,Diltiazem,Low,No significant interaction
+Allopurinol,Fluoxetine,Low,No significant interaction
+Allopurinol,Furosemide,Moderate,Increased uric acid and reduced diuretic effect
+Allopurinol,Gabapentin,Low,No significant interaction
+Allopurinol,Hydrochlorothiazide,Moderate,Increased uric acid and reduced diuretic effect
+Allopurinol,Ibuprofen,Low,No significant interaction
+Allopurinol,Lansoprazole,Low,No significant interaction
+Allopurinol,Levothyroxine,Low,No significant interaction
+Allopurinol,Lisinopril,Moderate,Increased risk of hypersensitivity reactions
+Allopurinol,Lithium,Moderate,Increased lithium levels and toxicity risk
+Allopurinol,Losartan,Low,No significant interaction
+Allopurinol,Metformin,Low,No significant interaction
+Allopurinol,Metoprolol,Low,No significant interaction
+Allopurinol,Morphine,Low,No significant interaction
+Allopurinol,Naproxen,Low,No significant interaction
+Allopurinol,Olanzapine,Low,No significant interaction
+Allopurinol,Omeprazole,Low,No significant interaction
+Allopurinol,Pantoprazole,Low,No significant interaction
+Allopurinol,Paracetamol,Low,No significant interaction
+Allopurinol,Phenytoin,Moderate,Increased phenytoin levels and toxicity
+Allopurinol,Prednisolone,Low,No significant interaction
+Allopurinol,Quetiapine,Low,No significant interaction
+Allopurinol,Ramipril,Moderate,Increased risk of hypersensitivity reactions
+Allopurinol,Rivaroxaban,Low,No significant interaction
+Allopurinol,Rosuvastatin,Low,No significant interaction
+Allopurinol,Sertraline,Low,No significant interaction
+Allopurinol,Simvastatin,Low,No significant interaction
+Allopurinol,Spironolactone,Low,No significant interaction
+Allopurinol,Ticagrelor,Low,No significant interaction
+Allopurinol,Tramadol,Low,No significant interaction
+Allopurinol,Valproate,Moderate,Increased valproate levels and hepatotoxicity
+Allopurinol,Valsartan,Low,No significant interaction
+Allopurinol,Verapamil,Moderate,Increased verapamil levels
+Allopurinol,Warfarin,Moderate,Increased INR (bleeding risk)
+Alprazolam,Amiodarone,Moderate,Increased sedation and alprazolam levels
+Alprazolam,Amlodipine,Low,No significant interaction
+Alprazolam,Apixaban,Low,No significant interaction
+Alprazolam,Aspirin,Low,No significant interaction
+Alprazolam,Atenolol,Low,No significant interaction
+Alprazolam,Atorvastatin,Low,No significant interaction
+Alprazolam,Carbamazepine,Moderate,Decreased alprazolam efficacy
+Alprazolam,Celecoxib,Low,No significant interaction
+Alprazolam,Citalopram,Moderate,Increased sedation and serotonin risk
+Alprazolam,Clopidogrel,Low,No significant interaction
+Alprazolam,Codeine,Moderate,Increased sedation and respiratory depression
+Alprazolam,Colchicine,Low,No significant interaction
+Alprazolam,Dabigatran,Low,No significant interaction
+Alprazolam,Diazepam,High,Excessive sedation and respiratory depression
+Alprazolam,Diclofenac,Low,No significant interaction
+Alprazolam,Digoxin,Low,No significant interaction
+Alprazolam,Diltiazem,Moderate,Increased alprazolam levels and sedation
+Alprazolam,Fluoxetine,Moderate,Increased alprazolam levels and sedation
+Alprazolam,Furosemide,Low,No significant interaction
+Alprazolam,Gabapentin,Moderate,Increased sedation and dizziness
+Alprazolam,Hydrochlorothiazide,Low,No significant interaction
+Alprazolam,Ibuprofen,Low,No significant interaction
+Alprazolam,Lansoprazole,Low,No significant interaction
+Alprazolam,Levothyroxine,Low,No significant interaction
+Alprazolam,Lisinopril,Low,No significant interaction
+Alprazolam,Lithium,Low,No significant interaction
+Alprazolam,Losartan,Low,No significant interaction
+Alprazolam,Metformin,Low,No significant interaction
+Alprazolam,Metoprolol,Low,No significant interaction
+Alprazolam,Morphine,High,Severe respiratory depression and sedation
+Alprazolam,Naproxen,Low,No significant interaction
+Alprazolam,Olanzapine,Moderate,Increased sedation and hypotension
+Alprazolam,Omeprazole,Low,No significant interaction
+Alprazolam,Pantoprazole,Low,No significant interaction
+Alprazolam,Paracetamol,Low,No significant interaction
+Alprazolam,Phenytoin,Moderate,Decreased alprazolam efficacy
+Alprazolam,Prednisolone,Low,No significant interaction
+Alprazolam,Quetiapine,Moderate,Increased sedation and hypotension
+Alprazolam,Ramipril,Low,No significant interaction
+Alprazolam,Rivaroxaban,Low,No significant interaction
+Alprazolam,Rosuvastatin,Low,No significant interaction
+Alprazolam,Sertraline,Moderate,Increased sedation and serotonin risk
+Alprazolam,Simvastatin,Low,No significant interaction
+Alprazolam,Spironolactone,Low,No significant interaction
+Alprazolam,Ticagrelor,Low,No significant interaction
+Alprazolam,Tramadol,High,"Severe sedation, respiratory depression, and serotonin syndrome risk"
+Alprazolam,Valproate,Moderate,Increased sedation and alprazolam levels
+Alprazolam,Valsartan,Low,No significant interaction
+Alprazolam,Verapamil,Moderate,Increased alprazolam levels and sedation
+Alprazolam,Warfarin,Low,No significant interaction
+Amiodarone,Amlodipine,Moderate,Increased amlodipine levels and hypotension
+Amiodarone,Apixaban,Moderate,Increased bleeding risk
+Amiodarone,Aspirin,Moderate,Increased bleeding risk
+Amiodarone,Atenolol,Moderate,Bradycardia and heart block risk
+Amiodarone,Atorvastatin,High,Increased risk of myopathy and rhabdomyolysis
+Amiodarone,Carbamazepine,Moderate,Increased carbamazepine levels and toxicity
+Amiodarone,Celecoxib,Moderate,Increased bleeding risk
+Amiodarone,Citalopram,Moderate,Increased QT prolongation risk
+Amiodarone,Clopidogrel,Moderate,Increased bleeding risk
+Amiodarone,Codeine,Low,No significant interaction
+Amiodarone,Colchicine,Moderate,Increased colchicine toxicity
+Amiodarone,Dabigatran,Moderate,Increased bleeding risk
+Amiodarone,Diazepam,Moderate,Increased diazepam levels and sedation
+Amiodarone,Diclofenac,Moderate,Increased bleeding risk
+Amiodarone,Digoxin,High,Significant increase in digoxin levels (toxicity risk)
+Amiodarone,Diltiazem,High,"Bradycardia, heart block, and increased amiodarone levels"
+Amiodarone,Fluoxetine,Moderate,Increased amiodarone levels and QT risk
+Amiodarone,Furosemide,Low,No significant interaction
+Amiodarone,Gabapentin,Low,No significant interaction
+Amiodarone,Hydrochlorothiazide,Low,No significant interaction
+Amiodarone,Ibuprofen,Moderate,Increased bleeding risk
+Amiodarone,Lansoprazole,Low,No significant interaction
+Amiodarone,Levothyroxine,Low,No significant interaction
+Amiodarone,Lisinopril,Moderate,Hypotension and hyperkalemia risk
+Amiodarone,Lithium,Moderate,Increased lithium levels and toxicity
+Amiodarone,Losartan,Moderate,Hypotension and hyperkalemia risk
+Amiodarone,Metformin,Low,No significant interaction
+Amiodarone,Metoprolol,Moderate,Bradycardia and hypotension
+Amiodarone,Morphine,Low,No significant interaction
+Amiodarone,Naproxen,Moderate,Increased bleeding risk
+Amiodarone,Olanzapine,Moderate,Increased QT prolongation risk
+Amiodarone,Omeprazole,Low,No significant interaction
+Amiodarone,Pantoprazole,Low,No significant interaction
+Amiodarone,Paracetamol,Low,No significant interaction
+Amiodarone,Phenytoin,High,Increased phenytoin levels and toxicity
+Amiodarone,Prednisolone,Low,No significant interaction
+Amiodarone,Quetiapine,Moderate,Increased QT prolongation risk
+Amiodarone,Ramipril,Moderate,Hypotension and hyperkalemia risk
+Amiodarone,Rivaroxaban,Moderate,Increased bleeding risk
+Amiodarone,Rosuvastatin,Moderate,Increased statin levels and myopathy risk
+Amiodarone,Sertraline,Moderate,Increased QT prolongation risk
+Amiodarone,Simvastatin,High,High risk of myopathy and rhabdomyolysis
+Amiodarone,Spironolactone,Moderate,Hyperkalemia risk
+Amiodarone,Ticagrelor,Moderate,Increased bleeding risk
+Amiodarone,Tramadol,Moderate,Serotonin syndrome risk and sedation
+Amiodarone,Valproate,Moderate,Increased valproate levels and hepatotoxicity
+Amiodarone,Valsartan,Moderate,Hypotension and hyperkalemia risk
+Amiodarone,Verapamil,High,"Severe bradycardia, heart block, and hypotension"
+Amiodarone,Warfarin,High,Significant increase in INR (bleeding risk)
+Amlodipine,Apixaban,Low,No significant interaction
+Amlodipine,Aspirin,Low,No significant interaction
+Amlodipine,Atenolol,Moderate,Additive hypotension and bradycardia
+Amlodipine,Atorvastatin,Moderate,Increased statin levels (myalgia risk)
+Amlodipine,Carbamazepine,Moderate,Decreased amlodipine efficacy
+Amlodipine,Celecoxib,Moderate,Reduced antihypertensive effect and fluid retention
+Amlodipine,Citalopram,Low,No significant interaction
+Amlodipine,Clopidogrel,Low,No significant interaction
+Amlodipine,Codeine,Low,No significant interaction
+Amlodipine,Colchicine,Low,No significant interaction
+Amlodipine,Dabigatran,Low,No significant interaction
+Amlodipine,Diazepam,Low,No significant interaction
+Amlodipine,Diclofenac,Moderate,Reduced antihypertensive effect and fluid retention
+Amlodipine,Digoxin,Moderate,Increased digoxin levels
+Amlodipine,Diltiazem,High,Significant increase in amlodipine levels and bradycardia
+Amlodipine,Fluoxetine,Low,No significant interaction
+Amlodipine,Furosemide,Moderate,Additive hypotension and electrolyte imbalance
+Amlodipine,Gabapentin,Low,No significant interaction
+Amlodipine,Hydrochlorothiazide,Moderate,Additive hypotension and electrolyte imbalance
+Amlodipine,Ibuprofen,Moderate,Reduced antihypertensive effect and fluid retention
+Amlodipine,Lansoprazole,Low,No significant interaction
+Amlodipine,Levothyroxine,Low,No significant interaction
+Amlodipine,Lisinopril,Moderate,Additive hypotension and hyperkalemia risk
+Amlodipine,Lithium,Low,No significant interaction
+Amlodipine,Losartan,Moderate,Additive hypotension and hyperkalemia risk
+Amlodipine,Metformin,Low,No significant interaction
+Amlodipine,Metoprolol,Moderate,Additive hypotension and bradycardia
+Amlodipine,Morphine,Low,No significant interaction
+Amlodipine,Naproxen,Moderate,Reduced antihypertensive effect and fluid retention
+Amlodipine,Olanzapine,Low,No significant interaction
+Amlodipine,Omeprazole,Low,No significant interaction
+Amlodipine,Pantoprazole,Low,No significant interaction
+Amlodipine,Paracetamol,Low,No significant interaction
+Amlodipine,Phenytoin,Moderate,Decreased amlodipine efficacy
+Amlodipine,Prednisolone,Moderate,Fluid retention and increased blood pressure
+Amlodipine,Quetiapine,Low,No significant interaction
+Amlodipine,Ramipril,Moderate,Additive hypotension and hyperkalemia risk
+Amlodipine,Rivaroxaban,Low,No significant interaction
+Amlodipine,Rosuvastatin,Low,No significant interaction
+Amlodipine,Sertraline,Low,No significant interaction
+Amlodipine,Simvastatin,Moderate,Increased simvastatin levels (myopathy risk)
+Amlodipine,Spironolactone,Moderate,Hyperkalemia risk (especially with renal impairment)
+Amlodipine,Ticagrelor,Low,No significant interaction
+Amlodipine,Tramadol,Low,No significant interaction
+Amlodipine,Valproate,Low,No significant interaction
+Amlodipine,Valsartan,Moderate,Additive hypotension and hyperkalemia risk
+Amlodipine,Verapamil,High,"Severe bradycardia, heart block, and hypotension"
+Amlodipine,Warfarin,Low,No significant interaction
+Paracetamol,Ibuprofen,Low,Mild stomach irritation possible
+Warfarin,Aspirin,High,Severe bleeding risk
+Ibuprofen,Diclofenac,Moderate,Increased gastric risk
+Metformin,Alcohol,High,Lactic acidosis risk
+Aspirin,Atenolol,Low,No significant interaction
+Aspirin,Atorvastatin,Low,No significant interaction
+Aspirin,Carbamazepine,Moderate,Increased bleeding risk with antiplatelet
+Aspirin,Celecoxib,Moderate,Increased gastrointestinal bleeding
+Aspirin,Citalopram,Moderate,Increased bleeding risk (SSRI + antiplatelet)
+Aspirin,Clopidogrel,High,Major bleeding risk (dual antiplatelet)
+Aspirin,Codeine,Low,No significant interaction
+Aspirin,Colchicine,Low,No significant interaction
+Aspirin,Dabigatran,High,Significant bleeding risk
+Aspirin,Diazepam,Low,No significant interaction
+Aspirin,Diclofenac,Moderate,Increased gastric and renal toxicity
+Aspirin,Digoxin,Low,No significant interaction
+Aspirin,Diltiazem,Low,No significant interaction
+Aspirin,Fluoxetine,Moderate,Increased bleeding risk (SSRI + antiplatelet)
+Aspirin,Furosemide,Moderate,Reduced diuretic effect and fluid retention
+Aspirin,Gabapentin,Low,No significant interaction
+Aspirin,Hydrochlorothiazide,Moderate,Reduced antihypertensive effect
+Aspirin,Ibuprofen,Moderate,Increased gastrointestinal ulcer risk
+Aspirin,Lansoprazole,Low,No significant interaction
+Atenolol,Atorvastatin,Low,No significant interaction
+Atenolol,Carbamazepine,Moderate,Decreased atenolol efficacy
+Atenolol,Celecoxib,Moderate,Reduced antihypertensive effect
+Atenolol,Citalopram,Low,No significant interaction
+Atenolol,Clopidogrel,Low,No significant interaction
+Atenolol,Codeine,Low,No significant interaction
+Atenolol,Colchicine,Low,No significant interaction
+Atenolol,Dabigatran,Low,No significant interaction
+Atenolol,Diazepam,Low,No significant interaction
+Atenolol,Diclofenac,Moderate,Reduced antihypertensive effect
+Atenolol,Digoxin,Moderate,Bradycardia and heart block risk
+Atenolol,Diltiazem,Moderate,Additive bradycardia and hypotension
+Atenolol,Fluoxetine,Low,No significant interaction
+Atenolol,Furosemide,Moderate,Additive hypotension and electrolyte imbalance
+Atenolol,Gabapentin,Low,No significant interaction
+Atenolol,Hydrochlorothiazide,Moderate,Additive hypotension and electrolyte imbalance
+Atenolol,Ibuprofen,Moderate,Reduced antihypertensive effect
+Atenolol,Lansoprazole,Low,No significant interaction
+Atorvastatin,Carbamazepine,Moderate,Decreased atorvastatin efficacy
+Atorvastatin,Celecoxib,Low,No significant interaction
+Atorvastatin,Citalopram,Low,No significant interaction
+Atorvastatin,Clopidogrel,Low,No significant interaction
+Atorvastatin,Codeine,Low,No significant interaction
+Atorvastatin,Colchicine,Moderate,Increased risk of myopathy
+Atorvastatin,Dabigatran,Low,No significant interaction
+Atorvastatin,Diazepam,Low,No significant interaction
+Atorvastatin,Diclofenac,Low,No significant interaction
+Atorvastatin,Digoxin,Moderate,Increased digoxin levels
+Atorvastatin,Diltiazem,Moderate,Increased atorvastatin levels (myopathy risk)
+Atorvastatin,Fluoxetine,Low,No significant interaction
+Atorvastatin,Furosemide,Low,No significant interaction
+Atorvastatin,Gabapentin,Low,No significant interaction
+Atorvastatin,Hydrochlorothiazide,Low,No significant interaction
+Atorvastatin,Ibuprofen,Low,No significant interaction
+Atorvastatin,Lansoprazole,Low,No significant interaction
+Carbamazepine,Celecoxib,Moderate,Increased carbamazepine levels (toxicity)
+Carbamazepine,Citalopram,Moderate,Increased seizure risk and serotonin syndrome
+Carbamazepine,Clopidogrel,Moderate,Decreased clopidogrel efficacy
+Carbamazepine,Codeine,Moderate,Decreased codeine efficacy
+Carbamazepine,Colchicine,Moderate,Increased colchicine toxicity
+Carbamazepine,Dabigatran,Moderate,Reduced dabigatran efficacy
+Carbamazepine,Diazepam,Moderate,Decreased diazepam efficacy
+Carbamazepine,Diclofenac,Low,No significant interaction
+Carbamazepine,Digoxin,Moderate,Decreased digoxin levels
+Carbamazepine,Diltiazem,Moderate,Increased carbamazepine levels and toxicity
+Carbamazepine,Fluoxetine,Moderate,Increased serotonin syndrome risk
+Carbamazepine,Furosemide,Low,No significant interaction
+Carbamazepine,Gabapentin,Low,No significant interaction
+Carbamazepine,Hydrochlorothiazide,Low,No significant interaction
+Carbamazepine,Ibuprofen,Low,No significant interaction
+Carbamazepine,Lansoprazole,Low,No significant interaction
+Celecoxib,Citalopram,Moderate,Increased bleeding risk
+Celecoxib,Clopidogrel,Moderate,Increased bleeding risk
+Celecoxib,Codeine,Low,No significant interaction
+Celecoxib,Colchicine,Low,No significant interaction
+Celecoxib,Dabigatran,Moderate,Increased bleeding risk
+Celecoxib,Diazepam,Low,No significant interaction
+Celecoxib,Diclofenac,Moderate,Increased renal toxicity and gastrointestinal risk
+Celecoxib,Digoxin,Low,No significant interaction
+Celecoxib,Diltiazem,Low,No significant interaction
+Celecoxib,Fluoxetine,Moderate,Increased bleeding risk
+Celecoxib,Furosemide,Moderate,Reduced diuretic effect
+Celecoxib,Gabapentin,Low,No significant interaction
+Celecoxib,Hydrochlorothiazide,Moderate,Reduced diuretic effect
+Celecoxib,Ibuprofen,Moderate,Increased gastrointestinal ulcer risk
+Celecoxib,Lansoprazole,Low,No significant interaction
+Citalopram,Clopidogrel,Moderate,Increased bleeding risk
+Citalopram,Codeine,Moderate,Serotonin syndrome risk
+Citalopram,Colchicine,Low,No significant interaction
+Citalopram,Dabigatran,Moderate,Increased bleeding risk
+Citalopram,Diazepam,Moderate,Increased sedation and serotonin risk
+Citalopram,Diclofenac,Moderate,Increased bleeding risk
+Citalopram,Digoxin,Low,No significant interaction
+Citalopram,Diltiazem,Low,No significant interaction
+Citalopram,Fluoxetine,High,Serotonin syndrome risk (avoid combination)
+Citalopram,Furosemide,Low,No significant interaction
+Citalopram,Gabapentin,Moderate,Increased sedation and dizziness
+Citalopram,Hydrochlorothiazide,Low,No significant interaction
+Citalopram,Ibuprofen,Moderate,Increased bleeding risk
+Citalopram,Lansoprazole,Low,No significant interaction
+Clopidogrel,Codeine,Moderate,Decreased clopidogrel efficacy (CYP2C19 interaction)
+Clopidogrel,Colchicine,Low,No significant interaction
+Clopidogrel,Dabigatran,High,Major bleeding risk
+Clopidogrel,Diazepam,Low,No significant interaction
+Clopidogrel,Diclofenac,Moderate,Increased bleeding risk
+Clopidogrel,Digoxin,Low,No significant interaction
+Clopidogrel,Diltiazem,Moderate,Increased clopidogrel levels (minor)
+Clopidogrel,Fluoxetine,Moderate,Increased bleeding risk
+Clopidogrel,Furosemide,Low,No significant interaction
+Clopidogrel,Gabapentin,Low,No significant interaction
+Clopidogrel,Hydrochlorothiazide,Low,No significant interaction
+Clopidogrel,Ibuprofen,Moderate,Increased bleeding risk
+Clopidogrel,Lansoprazole,Moderate,Reduced clopidogrel efficacy (PPI interaction)
+Codeine,Colchicine,Low,No significant interaction
+Codeine,Dabigatran,Low,No significant interaction
+Codeine,Diazepam,High,Severe respiratory depression and sedation
+Codeine,Diclofenac,Low,No significant interaction
+Codeine,Digoxin,Low,No significant interaction
+Codeine,Diltiazem,Moderate,Increased sedation and hypotension
+Codeine,Fluoxetine,Moderate,Serotonin syndrome risk
+Codeine,Furosemide,Low,No significant interaction
+Codeine,Gabapentin,Moderate,Increased sedation and respiratory depression
+Codeine,Hydrochlorothiazide,Low,No significant interaction
+Codeine,Ibuprofen,Low,No significant interaction
+Codeine,Lansoprazole,Low,No significant interaction
+Colchicine,Dabigatran,Low,No significant interaction
+Colchicine,Diazepam,Low,No significant interaction
+Colchicine,Diclofenac,Low,No significant interaction
+Colchicine,Digoxin,Moderate,Increased colchicine levels (toxicity)
+Colchicine,Diltiazem,Moderate,Increased colchicine toxicity
+Colchicine,Fluoxetine,Low,No significant interaction
+Colchicine,Furosemide,Low,No significant interaction
+Colchicine,Gabapentin,Low,No significant interaction
+Colchicine,Hydrochlorothiazide,Low,No significant interaction
+Colchicine,Ibuprofen,Low,No significant interaction
+Colchicine,Lansoprazole,Low,No significant interaction
+Dabigatran,Diazepam,Low,No significant interaction
+Dabigatran,Diclofenac,Moderate,Increased bleeding risk
+Dabigatran,Digoxin,Moderate,Increased digoxin levels
+Dabigatran,Diltiazem,Moderate,Increased dabigatran levels (bleeding risk)
+Dabigatran,Fluoxetine,Moderate,Increased bleeding risk
+Dabigatran,Furosemide,Low,No significant interaction
+Dabigatran,Gabapentin,Low,No significant interaction
+Dabigatran,Hydrochlorothiazide,Low,No significant interaction
+Dabigatran,Ibuprofen,Moderate,Increased bleeding risk
+Dabigatran,Lansoprazole,Low,No significant interaction
+Diazepam,Diclofenac,Low,No significant interaction
+Diazepam,Digoxin,Low,No significant interaction
+Diazepam,Diltiazem,Moderate,Increased sedation and hypotension
+Diazepam,Fluoxetine,Moderate,Increased sedation and serotonin risk
+Diazepam,Furosemide,Low,No significant interaction
+Diazepam,Gabapentin,Moderate,Increased sedation and dizziness
+Diazepam,Hydrochlorothiazide,Low,No significant interaction
+Diazepam,Ibuprofen,Low,No significant interaction
+Diazepam,Lansoprazole,Low,No significant interaction
+Diclofenac,Digoxin,Low,No significant interaction
+Diclofenac,Diltiazem,Low,No significant interaction
+Diclofenac,Fluoxetine,Moderate,Increased bleeding risk
+Diclofenac,Furosemide,Moderate,Reduced diuretic effect and renal impairment
+Diclofenac,Gabapentin,Low,No significant interaction
+Diclofenac,Hydrochlorothiazide,Moderate,Reduced diuretic effect
+Diclofenac,Ibuprofen,Moderate,Increased gastrointestinal and renal toxicity
+Diclofenac,Lansoprazole,Low,No significant interaction
+Digoxin,Diltiazem,High,Significant increase in digoxin levels (toxicity risk)
+Digoxin,Fluoxetine,Moderate,Increased digoxin levels
+Digoxin,Furosemide,Moderate,Hypokalemia increases digoxin toxicity
+Digoxin,Gabapentin,Low,No significant interaction
+Digoxin,Hydrochlorothiazide,Moderate,Hypokalemia increases digoxin toxicity
+Digoxin,Ibuprofen,Moderate,Increased digoxin levels and renal impairment
+Digoxin,Lansoprazole,Low,No significant interaction
+Diltiazem,Fluoxetine,Moderate,Increased diltiazem levels and bradycardia
+Diltiazem,Furosemide,Moderate,Additive hypotension and electrolyte imbalance
+Diltiazem,Gabapentin,Low,No significant interaction
+Diltiazem,Hydrochlorothiazide,Moderate,Additive hypotension and electrolyte imbalance
+Diltiazem,Ibuprofen,Moderate,Reduced antihypertensive effect
+Diltiazem,Lansoprazole,Low,No significant interaction
+Fluoxetine,Furosemide,Low,No significant interaction
+Fluoxetine,Gabapentin,Moderate,Increased sedation and serotonin risk
+Fluoxetine,Hydrochlorothiazide,Low,No significant interaction
+Fluoxetine,Ibuprofen,Moderate,Increased bleeding risk
+Fluoxetine,Lansoprazole,Low,No significant interaction
+Furosemide,Gabapentin,Low,No significant interaction
+Furosemide,Hydrochlorothiazide,Moderate,Additive hypokalemia and electrolyte imbalance
+Furosemide,Ibuprofen,Moderate,Reduced diuretic effect and renal impairment
+Furosemide,Lansoprazole,Low,No significant interaction
+Gabapentin,Hydrochlorothiazide,Low,No significant interaction
+Gabapentin,Ibuprofen,Low,No significant interaction
+Gabapentin,Lansoprazole,Low,No significant interaction
+Hydrochlorothiazide,Ibuprofen,Moderate,Reduced diuretic and antihypertensive effect
+Hydrochlorothiazide,Lansoprazole,Low,No significant interaction
+Ibuprofen,Lansoprazole,Low,No significant interaction
+Paracetamol,Warfarin,Low,No significant interaction (monitor INR occasionally)
+Paracetamol,clopidogrel,Low,No significant interaction
+Paracetamol,dabigatran,Low,No significant interaction
+Warfarin,ibuprofen,High,Severe bleeding risk (NSAID + anticoagulant)
+Warfarin,celecoxib,Moderate,Increased bleeding risk
+Warfarin,diclofenac,Moderate,Increased bleeding risk
+Warfarin,Metformin,Low,No significant interaction
+Metformin,aspirin,Low,No significant interaction
+Metformin,ibuprofen,Low,No significant interaction
+Metformin,warning,Low,No significant interaction  (this is a placeholder; ignore)
+Alcohol,Paracetamol,High,Hepatotoxicity risk with chronic Alcohol use
+Alcohol,ibuprofen,Moderate,Increased gastrointestinal bleeding
+Alcohol,Warfarin,Moderate,Altered INR and bleeding risk
+Aspirin,Atenolol,Low,No significant interaction
+Aspirin,Atorvastatin,Low,No significant interaction
+Aspirin,Carbamazepine,Moderate,Increased bleeding risk with antiplatelet
+Aspirin,Celecoxib,Moderate,Increased gastrointestinal bleeding
+Aspirin,Citalopram,Moderate,Increased bleeding risk (SSRI + antiplatelet)
+Aspirin,Clopidogrel,High,Major bleeding risk (dual antiplatelet)
+Aspirin,Codeine,Low,No significant interaction
+Aspirin,Colchicine,Low,No significant interaction
+Aspirin,Dabigatran,High,Significant bleeding risk
+Aspirin,Diazepam,Low,No significant interaction
+Aspirin,Diclofenac,Moderate,Increased gastric and renal toxicity
+Aspirin,Digoxin,Low,No significant interaction
+Aspirin,Diltiazem,Low,No significant interaction
+Aspirin,Fluoxetine,Moderate,Increased bleeding risk (SSRI + antiplatelet)
+Aspirin,Furosemide,Moderate,Reduced diuretic effect and fluid retention
+Aspirin,Gabapentin,Low,No significant interaction
+Aspirin,Hydrochlorothiazide,Moderate,Reduced antihypertensive effect
+Aspirin,Ibuprofen,Moderate,Increased gastrointestinal ulcer risk
+Aspirin,Lansoprazole,Low,No significant interaction
+Atenolol,Atorvastatin,Low,No significant interaction
+Atenolol,Carbamazepine,Moderate,Decreased atenolol efficacy
+Atenolol,Celecoxib,Moderate,Reduced antihypertensive effect
+Atenolol,Citalopram,Low,No significant interaction
+Atenolol,Clopidogrel,Low,No significant interaction
+Atenolol,Codeine,Low,No significant interaction
+Atenolol,Colchicine,Low,No significant interaction
+Atenolol,Dabigatran,Low,No significant interaction
+Atenolol,Diazepam,Low,No significant interaction
+Atenolol,Diclofenac,Moderate,Reduced antihypertensive effect
+Atenolol,Digoxin,Moderate,Bradycardia and heart block risk
+Atenolol,Diltiazem,Moderate,Additive bradycardia and hypotension
+Atenolol,Fluoxetine,Low,No significant interaction
+Atenolol,Furosemide,Moderate,Additive hypotension and electrolyte imbalance
+Atenolol,Gabapentin,Low,No significant interaction
+Atenolol,Hydrochlorothiazide,Moderate,Additive hypotension and electrolyte imbalance
+Atenolol,Ibuprofen,Moderate,Reduced antihypertensive effect
+Atenolol,Lansoprazole,Low,No significant interaction
+Atorvastatin,Carbamazepine,Moderate,Decreased atorvastatin efficacy
+Atorvastatin,Celecoxib,Low,No significant interaction
+Atorvastatin,Citalopram,Low,No significant interaction
+Atorvastatin,Clopidogrel,Low,No significant interaction
+Atorvastatin,Codeine,Low,No significant interaction
+Atorvastatin,Colchicine,Moderate,Increased risk of myopathy
+Atorvastatin,Dabigatran,Low,No significant interaction
+Atorvastatin,Diazepam,Low,No significant interaction
+Atorvastatin,Diclofenac,Low,No significant interaction
+Atorvastatin,Digoxin,Moderate,Increased digoxin levels
+Atorvastatin,Diltiazem,Moderate,Increased atorvastatin levels (myopathy risk)
+Atorvastatin,Fluoxetine,Low,No significant interaction
+Atorvastatin,Furosemide,Low,No significant interaction
+Atorvastatin,Gabapentin,Low,No significant interaction
+Atorvastatin,Hydrochlorothiazide,Low,No significant interaction
+Atorvastatin,Ibuprofen,Low,No significant interaction
+Atorvastatin,Lansoprazole,Low,No significant interaction
+Carbamazepine,Celecoxib,Moderate,Increased carbamazepine levels (toxicity)
+Carbamazepine,Citalopram,Moderate,Increased seizure risk and serotonin syndrome
+Carbamazepine,Clopidogrel,Moderate,Decreased clopidogrel efficacy
+Carbamazepine,Codeine,Moderate,Decreased codeine efficacy
+Carbamazepine,Colchicine,Moderate,Increased colchicine toxicity
+Carbamazepine,Dabigatran,Moderate,Reduced dabigatran efficacy
+Carbamazepine,Diazepam,Moderate,Decreased diazepam efficacy
+Carbamazepine,Diclofenac,Low,No significant interaction
+Carbamazepine,Digoxin,Moderate,Decreased digoxin levels
+Carbamazepine,Diltiazem,Moderate,Increased carbamazepine levels and toxicity
+Carbamazepine,Fluoxetine,Moderate,Increased serotonin syndrome risk
+Carbamazepine,Furosemide,Low,No significant interaction
+Carbamazepine,Gabapentin,Low,No significant interaction
+Carbamazepine,Hydrochlorothiazide,Low,No significant interaction
+Carbamazepine,Ibuprofen,Low,No significant interaction
+Carbamazepine,Lansoprazole,Low,No significant interaction
+Celecoxib,Citalopram,Moderate,Increased bleeding risk
+Celecoxib,Clopidogrel,Moderate,Increased bleeding risk
+Celecoxib,Codeine,Low,No significant interaction
+Celecoxib,Colchicine,Low,No significant interaction
+Celecoxib,Dabigatran,Moderate,Increased bleeding risk
+Celecoxib,Diazepam,Low,No significant interaction
+Celecoxib,Diclofenac,Moderate,Increased renal toxicity and gastrointestinal risk
+Celecoxib,Digoxin,Low,No significant interaction
+Celecoxib,Diltiazem,Low,No significant interaction
+Celecoxib,Fluoxetine,Moderate,Increased bleeding risk
+Celecoxib,Furosemide,Moderate,Reduced diuretic effect
+Celecoxib,Gabapentin,Low,No significant interaction
+Celecoxib,Hydrochlorothiazide,Moderate,Reduced diuretic effect
+Celecoxib,Ibuprofen,Moderate,Increased gastrointestinal ulcer risk
+Celecoxib,Lansoprazole,Low,No significant interaction
+Citalopram,Clopidogrel,Moderate,Increased bleeding risk
+Citalopram,Codeine,Moderate,Serotonin syndrome risk
+Citalopram,Colchicine,Low,No significant interaction
+Citalopram,Dabigatran,Moderate,Increased bleeding risk
+Citalopram,Diazepam,Moderate,Increased sedation and serotonin risk
+Citalopram,Diclofenac,Moderate,Increased bleeding risk
+Citalopram,Digoxin,Low,No significant interaction
+Citalopram,Diltiazem,Low,No significant interaction
+Citalopram,Fluoxetine,High,Serotonin syndrome risk (avoid combination)
+Citalopram,Furosemide,Low,No significant interaction
+Citalopram,Gabapentin,Moderate,Increased sedation and dizziness
+Citalopram,Hydrochlorothiazide,Low,No significant interaction
+Citalopram,Ibuprofen,Moderate,Increased bleeding risk
+Citalopram,Lansoprazole,Low,No significant interaction
+Clopidogrel,Codeine,Moderate,Decreased clopidogrel efficacy (CYP2C19 interaction)
+Clopidogrel,Colchicine,Low,No significant interaction
+Clopidogrel,Dabigatran,High,Major bleeding risk
+Clopidogrel,Diazepam,Low,No significant interaction
+Clopidogrel,Diclofenac,Moderate,Increased bleeding risk
+Clopidogrel,Digoxin,Low,No significant interaction
+Clopidogrel,Diltiazem,Moderate,Increased clopidogrel levels (minor)
+Clopidogrel,Fluoxetine,Moderate,Increased bleeding risk
+Clopidogrel,Furosemide,Low,No significant interaction
+Clopidogrel,Gabapentin,Low,No significant interaction
+Clopidogrel,Hydrochlorothiazide,Low,No significant interaction
+Clopidogrel,Ibuprofen,Moderate,Increased bleeding risk
+Clopidogrel,Lansoprazole,Moderate,Reduced clopidogrel efficacy (PPI interaction)
+Codeine,Colchicine,Low,No significant interaction
+Codeine,Dabigatran,Low,No significant interaction
+Codeine,Diazepam,High,Severe respiratory depression and sedation
+Codeine,Diclofenac,Low,No significant interaction
+Codeine,Digoxin,Low,No significant interaction
+Codeine,Diltiazem,Moderate,Increased sedation and hypotension
+Codeine,Fluoxetine,Moderate,Serotonin syndrome risk
+Codeine,Furosemide,Low,No significant interaction
+Codeine,Gabapentin,Moderate,Increased sedation and respiratory depression
+Codeine,Hydrochlorothiazide,Low,No significant interaction
+Codeine,Ibuprofen,Low,No significant interaction
+Codeine,Lansoprazole,Low,No significant interaction
+Colchicine,Dabigatran,Low,No significant interaction
+Colchicine,Diazepam,Low,No significant interaction
+Colchicine,Diclofenac,Low,No significant interaction
+Colchicine,Digoxin,Moderate,Increased colchicine levels (toxicity)
+Colchicine,Diltiazem,Moderate,Increased colchicine toxicity
+Colchicine,Fluoxetine,Low,No significant interaction
+Colchicine,Furosemide,Low,No significant interaction
+Colchicine,Gabapentin,Low,No significant interaction
+Colchicine,Hydrochlorothiazide,Low,No significant interaction
+Colchicine,Ibuprofen,Low,No significant interaction
+Colchicine,Lansoprazole,Low,No significant interaction
+Dabigatran,Diazepam,Low,No significant interaction
+Dabigatran,Diclofenac,Moderate,Increased bleeding risk
+Dabigatran,Digoxin,Moderate,Increased digoxin levels
+Dabigatran,Diltiazem,Moderate,Increased dabigatran levels (bleeding risk)
+Dabigatran,Fluoxetine,Moderate,Increased bleeding risk
+Dabigatran,Furosemide,Low,No significant interaction
+Dabigatran,Gabapentin,Low,No significant interaction
+Dabigatran,Hydrochlorothiazide,Low,No significant interaction
+Dabigatran,Ibuprofen,Moderate,Increased bleeding risk
+Dabigatran,Lansoprazole,Low,No significant interaction
+Diazepam,Diclofenac,Low,No significant interaction
+Diazepam,Digoxin,Low,No significant interaction
+Diazepam,Diltiazem,Moderate,Increased sedation and hypotension
+Diazepam,Fluoxetine,Moderate,Increased sedation and serotonin risk
+Diazepam,Furosemide,Low,No significant interaction
+Diazepam,Gabapentin,Moderate,Increased sedation and dizziness
+Diazepam,Hydrochlorothiazide,Low,No significant interaction
+Diazepam,Ibuprofen,Low,No significant interaction
+Diazepam,Lansoprazole,Low,No significant interaction
+Diclofenac,Digoxin,Low,No significant interaction
+Diclofenac,Diltiazem,Low,No significant interaction
+Diclofenac,Fluoxetine,Moderate,Increased bleeding risk
+Diclofenac,Furosemide,Moderate,Reduced diuretic effect and renal impairment
+Diclofenac,Gabapentin,Low,No significant interaction
+Diclofenac,Hydrochlorothiazide,Moderate,Reduced diuretic effect
+Diclofenac,Ibuprofen,Moderate,Increased gastrointestinal and renal toxicity
+Diclofenac,Lansoprazole,Low,No significant interaction
+Digoxin,Diltiazem,High,Significant increase in digoxin levels (toxicity risk)
+Digoxin,Fluoxetine,Moderate,Increased digoxin levels
+Digoxin,Furosemide,Moderate,Hypokalemia increases digoxin toxicity
+Digoxin,Gabapentin,Low,No significant interaction
+Digoxin,Hydrochlorothiazide,Moderate,Hypokalemia increases digoxin toxicity
+Digoxin,Ibuprofen,Moderate,Increased digoxin levels and renal impairment
+Digoxin,Lansoprazole,Low,No significant interaction
+Diltiazem,Fluoxetine,Moderate,Increased diltiazem levels and bradycardia
+Diltiazem,Furosemide,Moderate,Additive hypotension and electrolyte imbalance
+Diltiazem,Gabapentin,Low,No significant interaction
+Diltiazem,Hydrochlorothiazide,Moderate,Additive hypotension and electrolyte imbalance
+Diltiazem,Ibuprofen,Moderate,Reduced antihypertensive effect
+Diltiazem,Lansoprazole,Low,No significant interaction
+Fluoxetine,Furosemide,Low,No significant interaction
+Fluoxetine,Gabapentin,Moderate,Increased sedation and serotonin risk
+Fluoxetine,Hydrochlorothiazide,Low,No significant interaction
+Fluoxetine,Ibuprofen,Moderate,Increased bleeding risk
+Fluoxetine,Lansoprazole,Low,No significant interaction
+Furosemide,Gabapentin,Low,No significant interaction
+Furosemide,Hydrochlorothiazide,Moderate,Additive hypokalemia and electrolyte imbalance
+Furosemide,Ibuprofen,Moderate,Reduced diuretic effect and renal impairment
+Furosemide,Lansoprazole,Low,No significant interaction
+Gabapentin,Hydrochlorothiazide,Low,No significant interaction
+Gabapentin,Ibuprofen,Low,No significant interaction
+Gabapentin,Lansoprazole,Low,No significant interaction
+Hydrochlorothiazide,Ibuprofen,Moderate,Reduced diuretic and antihypertensive effect
+Hydrochlorothiazide,Lansoprazole,Low,No significant interaction
+Ibuprofen,Lansoprazole,Low,No significant interaction
+Paracetamol,Warfarin,Low,No significant interaction (monitor INR occasionally)
+Paracetamol,clopidogrel,Low,No significant interaction
+Paracetamol,dabigatran,Low,No significant interaction
+Warfarin,ibuprofen,High,Severe bleeding risk (NSAID + anticoagulant)
+Warfarin,celecoxib,Moderate,Increased bleeding risk
+Warfarin,diclofenac,Moderate,Increased bleeding risk
+Warfarin,Metformin,Low,No significant interaction
+Metformin,aspirin,Low,No significant interaction
+Metformin,ibuprofen,Low,No significant interaction
+Metformin,warning,Low,No significant interaction  (this is a placeholder; ignore)
+Alcohol,Paracetamol,High,Hepatotoxicity risk with chronic Alcohol use
+Alcohol,ibuprofen,Moderate,Increased gastrointestinal bleeding
+Alcohol,Warfarin,Moderate,Altered INR and bleeding risk
+Sulfamethoxazole,Trimethoprim,Low,No significant interaction (combination often used together)
+Sulfamethoxazole,Ciprofloxacin,Low,No significant interaction
+Sulfamethoxazole,Levofloxacin,Low,No significant interaction
+Sulfamethoxazole,Metronidazole,Low,No significant interaction
+Sulfamethoxazole,Clindamycin,Low,No significant interaction
+Sulfamethoxazole,Gentamicin,Low,No significant interaction
+Sulfamethoxazole,Vancomycin,Low,No significant interaction
+Sulfamethoxazole,Rifampin,Moderate,Reduced sulfamethoxazole efficacy (induction)
+Sulfamethoxazole,Isoniazid,Low,No significant interaction
+Sulfamethoxazole,Pyrazinamide,Low,No significant interaction
+Sulfamethoxazole,Ethambutol,Low,No significant interaction
+Sulfamethoxazole,Dapsone,Moderate,Increased risk of hemolysis and methemoglobinemia
+Sulfamethoxazole,Nitrofurantoin,Low,No significant interaction
+Sulfamethoxazole,Phenazopyridine,Low,No significant interaction
+Sulfamethoxazole,Finasteride,Low,No significant interaction
+Sulfamethoxazole,Tamsulosin,Low,No significant interaction
+Sulfamethoxazole,Dutasteride,Low,No significant interaction
+Sulfamethoxazole,Sildenafil,Low,No significant interaction
+Sulfamethoxazole,Tadalafil,Low,No significant interaction
+Sulfamethoxazole,Vardenafil,Low,No significant interaction
+Sulfamethoxazole,Donepezil,Low,No significant interaction
+Sulfamethoxazole,Memantine,Low,No significant interaction
+Sulfamethoxazole,Rivastigmine,Low,No significant interaction
+Sulfamethoxazole,Galantamine,Low,No significant interaction
+Sulfamethoxazole,Levodopa,Low,No significant interaction
+Sulfamethoxazole,Carbidopa,Low,No significant interaction
+Sulfamethoxazole,Entacapone,Low,No significant interaction
+Sulfamethoxazole,Pramipexole,Low,No significant interaction
+Sulfamethoxazole,Ropinirole,Low,No significant interaction
+Trimethoprim,Ciprofloxacin,Low,No significant interaction
+Trimethoprim,Levofloxacin,Low,No significant interaction
+Trimethoprim,Metronidazole,Low,No significant interaction
+Trimethoprim,Clindamycin,Low,No significant interaction
+Trimethoprim,Gentamicin,Low,No significant interaction
+Trimethoprim,Vancomycin,Low,No significant interaction
+Trimethoprim,Rifampin,Moderate,Reduced trimethoprim efficacy (induction)
+Trimethoprim,Isoniazid,Low,No significant interaction
+Trimethoprim,Pyrazinamide,Low,No significant interaction
+Trimethoprim,Ethambutol,Low,No significant interaction
+Trimethoprim,Dapsone,Moderate,Increased risk of hemolysis and methemoglobinemia
+Trimethoprim,Nitrofurantoin,Low,No significant interaction
+Trimethoprim,Phenazopyridine,Low,No significant interaction
+Trimethoprim,Finasteride,Low,No significant interaction
+Trimethoprim,Tamsulosin,Low,No significant interaction
+Trimethoprim,Dutasteride,Low,No significant interaction
+Trimethoprim,Sildenafil,Low,No significant interaction
+Trimethoprim,Tadalafil,Low,No significant interaction
+Trimethoprim,Vardenafil,Low,No significant interaction
+Trimethoprim,Donepezil,Low,No significant interaction
+Trimethoprim,Memantine,Low,No significant interaction
+Trimethoprim,Rivastigmine,Low,No significant interaction
+Trimethoprim,Galantamine,Low,No significant interaction
+Trimethoprim,Levodopa,Low,No significant interaction
+Trimethoprim,Carbidopa,Low,No significant interaction
+Trimethoprim,Entacapone,Low,No significant interaction
+Trimethoprim,Pramipexole,Low,No significant interaction
+Trimethoprim,Ropinirole,Low,No significant interaction
+Ciprofloxacin,Levofloxacin,Moderate,Additive QT prolongation risk
+Ciprofloxacin,Metronidazole,Low,No significant interaction
+Ciprofloxacin,Clindamycin,Low,No significant interaction
+Ciprofloxacin,Gentamicin,Moderate,Increased nephrotoxicity risk
+Ciprofloxacin,Vancomycin,Low,No significant interaction
+Ciprofloxacin,Rifampin,High,Significant reduction in ciprofloxacin efficacy (induction)
+Ciprofloxacin,Isoniazid,Low,No significant interaction
+Ciprofloxacin,Pyrazinamide,Low,No significant interaction
+Ciprofloxacin,Ethambutol,Low,No significant interaction
+Ciprofloxacin,Dapsone,Moderate,Increased risk of QT prolongation
+Ciprofloxacin,Nitrofurantoin,Low,No significant interaction
+Ciprofloxacin,Phenazopyridine,Low,No significant interaction
+Ciprofloxacin,Finasteride,Low,No significant interaction
+Ciprofloxacin,Tamsulosin,Low,No significant interaction
+Ciprofloxacin,Dutasteride,Low,No significant interaction
+Ciprofloxacin,Sildenafil,Moderate,Increased sildenafil levels (CYP3A4 inhibition) and hypotension
+Ciprofloxacin,Tadalafil,Moderate,Increased tadalafil levels and hypotension
+Ciprofloxacin,Vardenafil,Moderate,Increased vardenafil levels and hypotension
+Ciprofloxacin,Donepezil,Low,No significant interaction
+Ciprofloxacin,Memantine,Low,No significant interaction
+Ciprofloxacin,Rivastigmine,Low,No significant interaction
+Ciprofloxacin,Galantamine,Low,No significant interaction
+Ciprofloxacin,Levodopa,Low,No significant interaction
+Ciprofloxacin,Carbidopa,Low,No significant interaction
+Ciprofloxacin,Entacapone,Low,No significant interaction
+Ciprofloxacin,Pramipexole,Low,No significant interaction
+Ciprofloxacin,Ropinirole,Low,No significant interaction
+Levofloxacin,Metronidazole,Low,No significant interaction
+Levofloxacin,Clindamycin,Low,No significant interaction
+Levofloxacin,Gentamicin,Moderate,Increased nephrotoxicity risk
+Levofloxacin,Vancomycin,Low,No significant interaction
+Levofloxacin,Rifampin,High,Significant reduction in levofloxacin efficacy (induction)
+Levofloxacin,Isoniazid,Low,No significant interaction
+Levofloxacin,Pyrazinamide,Low,No significant interaction
+Levofloxacin,Ethambutol,Low,No significant interaction
+Levofloxacin,Dapsone,Moderate,Increased risk of QT prolongation
+Levofloxacin,Nitrofurantoin,Low,No significant interaction
+Levofloxacin,Phenazopyridine,Low,No significant interaction
+Levofloxacin,Finasteride,Low,No significant interaction
+Levofloxacin,Tamsulosin,Low,No significant interaction
+Levofloxacin,Dutasteride,Low,No significant interaction
+Levofloxacin,Sildenafil,Moderate,Increased sildenafil levels and hypotension
+Levofloxacin,Tadalafil,Moderate,Increased tadalafil levels and hypotension
+Levofloxacin,Vardenafil,Moderate,Increased vardenafil levels and hypotension
+Levofloxacin,Donepezil,Low,No significant interaction
+Levofloxacin,Memantine,Low,No significant interaction
+Levofloxacin,Rivastigmine,Low,No significant interaction
+Levofloxacin,Galantamine,Low,No significant interaction
+Levofloxacin,Levodopa,Low,No significant interaction
+Levofloxacin,Carbidopa,Low,No significant interaction
+Levofloxacin,Entacapone,Low,No significant interaction
+Levofloxacin,Pramipexole,Low,No significant interaction
+Levofloxacin,Ropinirole,Low,No significant interaction
+Metronidazole,Clindamycin,Low,No significant interaction
+Metronidazole,Gentamicin,Low,No significant interaction
+Metronidazole,Vancomycin,Low,No significant interaction
+Metronidazole,Rifampin,Moderate,Reduced metronidazole efficacy (induction)
+Metronidazole,Isoniazid,Low,No significant interaction
+Metronidazole,Pyrazinamide,Low,No significant interaction
+Metronidazole,Ethambutol,Low,No significant interaction
+Metronidazole,Dapsone,Moderate,Increased risk of neuropathy (additive)
+Metronidazole,Nitrofurantoin,Low,No significant interaction
+Metronidazole,Phenazopyridine,Low,No significant interaction
+Metronidazole,Finasteride,Low,No significant interaction
+Metronidazole,Tamsulosin,Low,No significant interaction
+Metronidazole,Dutasteride,Low,No significant interaction
+Metronidazole,Sildenafil,Low,No significant interaction
+Metronidazole,Tadalafil,Low,No significant interaction
+Metronidazole,Vardenafil,Low,No significant interaction
+Metronidazole,Donepezil,Low,No significant interaction
+Metronidazole,Memantine,Low,No significant interaction
+Metronidazole,Rivastigmine,Low,No significant interaction
+Metronidazole,Galantamine,Low,No significant interaction
+Metronidazole,Levodopa,Low,No significant interaction
+Metronidazole,Carbidopa,Low,No significant interaction
+Metronidazole,Entacapone,Low,No significant interaction
+Metronidazole,Pramipexole,Low,No significant interaction
+Metronidazole,Ropinirole,Low,No significant interaction
+Clindamycin,Gentamicin,Low,No significant interaction
+Clindamycin,Vancomycin,Low,No significant interaction
+Clindamycin,Rifampin,Moderate,Reduced clindamycin efficacy (induction)
+Clindamycin,Isoniazid,Low,No significant interaction
+Clindamycin,Pyrazinamide,Low,No significant interaction
+Clindamycin,Ethambutol,Low,No significant interaction
+Clindamycin,Dapsone,Low,No significant interaction
+Clindamycin,Nitrofurantoin,Low,No significant interaction
+Clindamycin,Phenazopyridine,Low,No significant interaction
+Clindamycin,Finasteride,Low,No significant interaction
+Clindamycin,Tamsulosin,Low,No significant interaction
+Clindamycin,Dutasteride,Low,No significant interaction
+Clindamycin,Sildenafil,Low,No significant interaction
+Clindamycin,Tadalafil,Low,No significant interaction
+Clindamycin,Vardenafil,Low,No significant interaction
+Clindamycin,Donepezil,Low,No significant interaction
+Clindamycin,Memantine,Low,No significant interaction
+Clindamycin,Rivastigmine,Low,No significant interaction
+Clindamycin,Galantamine,Low,No significant interaction
+Clindamycin,Levodopa,Low,No significant interaction
+Clindamycin,Carbidopa,Low,No significant interaction
+Clindamycin,Entacapone,Low,No significant interaction
+Clindamycin,Pramipexole,Low,No significant interaction
+Clindamycin,Ropinirole,Low,No significant interaction
+Gentamicin,Vancomycin,High,Severe nephrotoxicity and ototoxicity risk
+Gentamicin,Rifampin,Low,No significant interaction
+Gentamicin,Isoniazid,Low,No significant interaction
+Gentamicin,Pyrazinamide,Low,No significant interaction
+Gentamicin,Ethambutol,Low,No significant interaction
+Gentamicin,Dapsone,Low,No significant interaction
+Gentamicin,Nitrofurantoin,Low,No significant interaction
+Gentamicin,Phenazopyridine,Low,No significant interaction
+Gentamicin,Finasteride,Low,No significant interaction
+Gentamicin,Tamsulosin,Low,No significant interaction
+Gentamicin,Dutasteride,Low,No significant interaction
+Gentamicin,Sildenafil,Low,No significant interaction
+Gentamicin,Tadalafil,Low,No significant interaction
+Gentamicin,Vardenafil,Low,No significant interaction
+Gentamicin,Donepezil,Low,No significant interaction
+Gentamicin,Memantine,Low,No significant interaction
+Gentamicin,Rivastigmine,Low,No significant interaction
+Gentamicin,Galantamine,Low,No significant interaction
+Gentamicin,Levodopa,Low,No significant interaction
+Gentamicin,Carbidopa,Low,No significant interaction
+Gentamicin,Entacapone,Low,No significant interaction
+Gentamicin,Pramipexole,Low,No significant interaction
+Gentamicin,Ropinirole,Low,No significant interaction
+Vancomycin,Rifampin,Low,No significant interaction
+Vancomycin,Isoniazid,Low,No significant interaction
+Vancomycin,Pyrazinamide,Low,No significant interaction
+Vancomycin,Ethambutol,Low,No significant interaction
+Vancomycin,Dapsone,Low,No significant interaction
+Vancomycin,Nitrofurantoin,Low,No significant interaction
+Vancomycin,Phenazopyridine,Low,No significant interaction
+Vancomycin,Finasteride,Low,No significant interaction
+Vancomycin,Tamsulosin,Low,No significant interaction
+Vancomycin,Dutasteride,Low,No significant interaction
+Vancomycin,Sildenafil,Low,No significant interaction
+Vancomycin,Tadalafil,Low,No significant interaction
+Vancomycin,Vardenafil,Low,No significant interaction
+Vancomycin,Donepezil,Low,No significant interaction
+Vancomycin,Memantine,Low,No significant interaction
+Vancomycin,Rivastigmine,Low,No significant interaction
+Vancomycin,Galantamine,Low,No significant interaction
+Vancomycin,Levodopa,Low,No significant interaction
+Vancomycin,Carbidopa,Low,No significant interaction
+Vancomycin,Entacapone,Low,No significant interaction
+Vancomycin,Pramipexole,Low,No significant interaction
+Vancomycin,Ropinirole,Low,No significant interaction
+Rifampin,Isoniazid,Moderate,Increased hepatotoxicity risk
+Rifampin,Pyrazinamide,Moderate,Increased hepatotoxicity risk
+Rifampin,Ethambutol,Low,No significant interaction
+Rifampin,Dapsone,High,Significant reduction in dapsone efficacy (induction)
+Rifampin,Nitrofurantoin,Low,No significant interaction
+Rifampin,Phenazopyridine,Low,No significant interaction
+Rifampin,Finasteride,Moderate,Reduced finasteride efficacy (induction)
+Rifampin,Tamsulosin,Moderate,Reduced tamsulosin efficacy (induction)
+Rifampin,Dutasteride,Moderate,Reduced dutasteride efficacy (induction)
+Rifampin,Sildenafil,High,Severe reduction in sildenafil efficacy (induction)
+Rifampin,Tadalafil,High,Severe reduction in tadalafil efficacy (induction)
+Rifampin,Vardenafil,High,Severe reduction in vardenafil efficacy (induction)
+Rifampin,Donepezil,Moderate,Reduced donepezil efficacy (induction)
+Rifampin,Memantine,Low,No significant interaction
+Rifampin,Rivastigmine,Low,No significant interaction
+Rifampin,Galantamine,Moderate,Reduced galantamine efficacy (induction)
+Rifampin,Levodopa,Low,No significant interaction
+Rifampin,Carbidopa,Low,No significant interaction
+Rifampin,Entacapone,Moderate,Reduced entacapone efficacy (induction)
+Rifampin,Pramipexole,Low,No significant interaction
+Rifampin,Ropinirole,Low,No significant interaction
+Isoniazid,Pyrazinamide,Moderate,Increased hepatotoxicity risk
+Isoniazid,Ethambutol,Low,No significant interaction
+Isoniazid,Dapsone,Low,No significant interaction
+Isoniazid,Nitrofurantoin,Low,No significant interaction
+Isoniazid,Phenazopyridine,Low,No significant interaction
+Isoniazid,Finasteride,Low,No significant interaction
+Isoniazid,Tamsulosin,Low,No significant interaction
+Isoniazid,Dutasteride,Low,No significant interaction
+Isoniazid,Sildenafil,Low,No significant interaction
+Isoniazid,Tadalafil,Low,No significant interaction
+Isoniazid,Vardenafil,Low,No significant interaction
+Isoniazid,Donepezil,Low,No significant interaction
+Isoniazid,Memantine,Low,No significant interaction
+Isoniazid,Rivastigmine,Low,No significant interaction
+Isoniazid,Galantamine,Low,No significant interaction
+Isoniazid,Levodopa,Low,No significant interaction
+Isoniazid,Carbidopa,Low,No significant interaction
+Isoniazid,Entacapone,Low,No significant interaction
+Isoniazid,Pramipexole,Low,No significant interaction
+Isoniazid,Ropinirole,Low,No significant interaction
+Pyrazinamide,Ethambutol,Low,No significant interaction
+Pyrazinamide,Dapsone,Low,No significant interaction
+Pyrazinamide,Nitrofurantoin,Low,No significant interaction
+Pyrazinamide,Phenazopyridine,Low,No significant interaction
+Pyrazinamide,Finasteride,Low,No significant interaction
+Pyrazinamide,Tamsulosin,Low,No significant interaction
+Pyrazinamide,Dutasteride,Low,No significant interaction
+Pyrazinamide,Sildenafil,Low,No significant interaction
+Pyrazinamide,Tadalafil,Low,No significant interaction
+Pyrazinamide,Vardenafil,Low,No significant interaction
+Pyrazinamide,Donepezil,Low,No significant interaction
+Pyrazinamide,Memantine,Low,No significant interaction
+Pyrazinamide,Rivastigmine,Low,No significant interaction
+Pyrazinamide,Galantamine,Low,No significant interaction
+Pyrazinamide,Levodopa,Low,No significant interaction
+Pyrazinamide,Carbidopa,Low,No significant interaction
+Pyrazinamide,Entacapone,Low,No significant interaction
+Pyrazinamide,Pramipexole,Low,No significant interaction
+Pyrazinamide,Ropinirole,Low,No significant interaction
+Ethambutol,Dapsone,Low,No significant interaction
+Ethambutol,Nitrofurantoin,Low,No significant interaction
+Ethambutol,Phenazopyridine,Low,No significant interaction
+Ethambutol,Finasteride,Low,No significant interaction
+Ethambutol,Tamsulosin,Low,No significant interaction
+Ethambutol,Dutasteride,Low,No significant interaction
+Ethambutol,Sildenafil,Low,No significant interaction
+Ethambutol,Tadalafil,Low,No significant interaction
+Ethambutol,Vardenafil,Low,No significant interaction
+Ethambutol,Donepezil,Low,No significant interaction
+Ethambutol,Memantine,Low,No significant interaction
+Ethambutol,Rivastigmine,Low,No significant interaction
+Ethambutol,Galantamine,Low,No significant interaction
+Ethambutol,Levodopa,Low,No significant interaction
+Ethambutol,Carbidopa,Low,No significant interaction
+Ethambutol,Entacapone,Low,No significant interaction
+Ethambutol,Pramipexole,Low,No significant interaction
+Ethambutol,Ropinirole,Low,No significant interaction
+Dapsone,Nitrofurantoin,Low,No significant interaction
+Dapsone,Phenazopyridine,Low,No significant interaction
+Dapsone,Finasteride,Low,No significant interaction
+Dapsone,Tamsulosin,Low,No significant interaction
+Dapsone,Dutasteride,Low,No significant interaction
+Dapsone,Sildenafil,Low,No significant interaction
+Dapsone,Tadalafil,Low,No significant interaction
+Dapsone,Vardenafil,Low,No significant interaction
+Dapsone,Donepezil,Low,No significant interaction
+Dapsone,Memantine,Low,No significant interaction
+Dapsone,Rivastigmine,Low,No significant interaction
+Dapsone,Galantamine,Low,No significant interaction
+Dapsone,Levodopa,Low,No significant interaction
+Dapsone,Carbidopa,Low,No significant interaction
+Dapsone,Entacapone,Low,No significant interaction
+Dapsone,Pramipexole,Low,No significant interaction
+Dapsone,Ropinirole,Low,No significant interaction
+Nitrofurantoin,Phenazopyridine,Low,No significant interaction
+Nitrofurantoin,Finasteride,Low,No significant interaction
+Nitrofurantoin,Tamsulosin,Low,No significant interaction
+Nitrofurantoin,Dutasteride,Low,No significant interaction
+Nitrofurantoin,Sildenafil,Low,No significant interaction
+Nitrofurantoin,Tadalafil,Low,No significant interaction
+Nitrofurantoin,Vardenafil,Low,No significant interaction
+Nitrofurantoin,Donepezil,Low,No significant interaction
+Nitrofurantoin,Memantine,Low,No significant interaction
+Nitrofurantoin,Rivastigmine,Low,No significant interaction
+Nitrofurantoin,Galantamine,Low,No significant interaction
+Nitrofurantoin,Levodopa,Low,No significant interaction
+Nitrofurantoin,Carbidopa,Low,No significant interaction
+Nitrofurantoin,Entacapone,Low,No significant interaction
+Nitrofurantoin,Pramipexole,Low,No significant interaction
+Nitrofurantoin,Ropinirole,Low,No significant interaction
+Phenazopyridine,Finasteride,Low,No significant interaction
+Phenazopyridine,Tamsulosin,Low,No significant interaction
+Phenazopyridine,Dutasteride,Low,No significant interaction
+Phenazopyridine,Sildenafil,Low,No significant interaction
+Phenazopyridine,Tadalafil,Low,No significant interaction
+Phenazopyridine,Vardenafil,Low,No significant interaction
+Phenazopyridine,Donepezil,Low,No significant interaction
+Phenazopyridine,Memantine,Low,No significant interaction
+Phenazopyridine,Rivastigmine,Low,No significant interaction
+Phenazopyridine,Galantamine,Low,No significant interaction
+Phenazopyridine,Levodopa,Low,No significant interaction
+Phenazopyridine,Carbidopa,Low,No significant interaction
+Phenazopyridine,Entacapone,Low,No significant interaction
+Phenazopyridine,Pramipexole,Low,No significant interaction
+Phenazopyridine,Ropinirole,Low,No significant interaction
+Finasteride,Tamsulosin,Low,No significant interaction (often used together)
+Finasteride,Dutasteride,Moderate,Additive anti-androgen effects (avoid routine combination)
+Finasteride,Sildenafil,Low,No significant interaction
+Finasteride,Tadalafil,Low,No significant interaction
+Finasteride,Vardenafil,Low,No significant interaction
+Finasteride,Donepezil,Low,No significant interaction
+Finasteride,Memantine,Low,No significant interaction
+Finasteride,Rivastigmine,Low,No significant interaction
+Finasteride,Galantamine,Low,No significant interaction
+Finasteride,Levodopa,Low,No significant interaction
+Finasteride,Carbidopa,Low,No significant interaction
+Finasteride,Entacapone,Low,No significant interaction
+Finasteride,Pramipexole,Low,No significant interaction
+Finasteride,Ropinirole,Low,No significant interaction
+Tamsulosin,Dutasteride,Low,No significant interaction (often used together)
+Tamsulosin,Sildenafil,Moderate,Additive hypotension risk
+Tamsulosin,Tadalafil,Moderate,Additive hypotension risk
+Tamsulosin,Vardenafil,Moderate,Additive hypotension risk
+Tamsulosin,Donepezil,Low,No significant interaction
+Tamsulosin,Memantine,Low,No significant interaction
+Tamsulosin,Rivastigmine,Low,No significant interaction
+Tamsulosin,Galantamine,Low,No significant interaction
+Tamsulosin,Levodopa,Low,No significant interaction
+Tamsulosin,Carbidopa,Low,No significant interaction
+Tamsulosin,Entacapone,Low,No significant interaction
+Tamsulosin,Pramipexole,Low,No significant interaction
+Tamsulosin,Ropinirole,Low,No significant interaction
+Dutasteride,Sildenafil,Low,No significant interaction
+Dutasteride,Tadalafil,Low,No significant interaction
+Dutasteride,Vardenafil,Low,No significant interaction
+Dutasteride,Donepezil,Low,No significant interaction
+Dutasteride,Memantine,Low,No significant interaction
+Dutasteride,Rivastigmine,Low,No significant interaction
+Dutasteride,Galantamine,Low,No significant interaction
+Dutasteride,Levodopa,Low,No significant interaction
+Dutasteride,Carbidopa,Low,No significant interaction
+Dutasteride,Entacapone,Low,No significant interaction
+Dutasteride,Pramipexole,Low,No significant interaction
+Dutasteride,Ropinirole,Low,No significant interaction
+Sildenafil,Tadalafil,High,Severe hypotension (avoid concurrent use)
+Sildenafil,Vardenafil,High,Severe hypotension (avoid concurrent use)
+Sildenafil,Donepezil,Low,No significant interaction
+Sildenafil,Memantine,Low,No significant interaction
+Sildenafil,Rivastigmine,Low,No significant interaction
+Sildenafil,Galantamine,Low,No significant interaction
+Sildenafil,Levodopa,Low,No significant interaction
+Sildenafil,Carbidopa,Low,No significant interaction
+Sildenafil,Entacapone,Low,No significant interaction
+Sildenafil,Pramipexole,Low,No significant interaction
+Sildenafil,Ropinirole,Low,No significant interaction
+Tadalafil,Vardenafil,High,Severe hypotension (avoid concurrent use)
+Tadalafil,Donepezil,Low,No significant interaction
+Tadalafil,Memantine,Low,No significant interaction
+Tadalafil,Rivastigmine,Low,No significant interaction
+Tadalafil,Galantamine,Low,No significant interaction
+Tadalafil,Levodopa,Low,No significant interaction
+Tadalafil,Carbidopa,Low,No significant interaction
+Tadalafil,Entacapone,Low,No significant interaction
+Tadalafil,Pramipexole,Low,No significant interaction
+Tadalafil,Ropinirole,Low,No significant interaction
+Vardenafil,Donepezil,Low,No significant interaction
+Vardenafil,Memantine,Low,No significant interaction
+Vardenafil,Rivastigmine,Low,No significant interaction
+Vardenafil,Galantamine,Low,No significant interaction
+Vardenafil,Levodopa,Low,No significant interaction
+Vardenafil,Carbidopa,Low,No significant interaction
+Vardenafil,Entacapone,Low,No significant interaction
+Vardenafil,Pramipexole,Low,No significant interaction
+Vardenafil,Ropinirole,Low,No significant interaction
+Donepezil,Memantine,Low,No significant interaction (often used together)
+Donepezil,Rivastigmine,Moderate,Excessive cholinergic stimulation (avoid combination)
+Donepezil,Galantamine,Moderate,Excessive cholinergic stimulation (avoid combination)
+Donepezil,Levodopa,Low,No significant interaction
+Donepezil,Carbidopa,Low,No significant interaction
+Donepezil,Entacapone,Low,No significant interaction
+Donepezil,Pramipexole,Low,No significant interaction
+Donepezil,Ropinirole,Low,No significant interaction
+Memantine,Rivastigmine,Low,No significant interaction
+Memantine,Galantamine,Low,No significant interaction
+Memantine,Levodopa,Low,No significant interaction
+Memantine,Carbidopa,Low,No significant interaction
+Memantine,Entacapone,Low,No significant interaction
+Memantine,Pramipexole,Low,No significant interaction
+Memantine,Ropinirole,Low,No significant interaction
+Rivastigmine,Galantamine,Moderate,Excessive cholinergic stimulation (avoid combination)
+Rivastigmine,Levodopa,Low,No significant interaction
+Rivastigmine,Carbidopa,Low,No significant interaction
+Rivastigmine,Entacapone,Low,No significant interaction
+Rivastigmine,Pramipexole,Low,No significant interaction
+Rivastigmine,Ropinirole,Low,No significant interaction
+Galantamine,Levodopa,Low,No significant interaction
+Galantamine,Carbidopa,Low,No significant interaction
+Galantamine,Entacapone,Low,No significant interaction
+Galantamine,Pramipexole,Low,No significant interaction
+Galantamine,Ropinirole,Low,No significant interaction
+Levodopa,Carbidopa,Low,No significant interaction (standard combination)
+Levodopa,Entacapone,Low,No significant interaction (standard combination)
+Levodopa,Pramipexole,Low,No significant interaction (often used together)
+Levodopa,Ropinirole,Low,No significant interaction (often used together)
+Carbidopa,Entacapone,Low,No significant interaction (standard combination)
+Carbidopa,Pramipexole,Low,No significant interaction
+Carbidopa,Ropinirole,Low,No significant interaction
+Entacapone,Pramipexole,Low,No significant interaction
+Entacapone,Ropinirole,Low,No significant interaction
+Pramipexole,Ropinirole,Moderate,Additive dopaminergic effects (avoid routine combination)
+Albuterol,Azithromycin,Low,No significant interaction
+Albuterol,Cephalexin,Low,No significant interaction
+Albuterol,Cetirizine,Low,No significant interaction
+Albuterol,Duloxetine,Low,No significant interaction
+Albuterol,Eplerenone,Low,No significant interaction
+Albuterol,Esomeprazole,Low,No significant interaction
+Albuterol,Famotidine,Low,No significant interaction
+Albuterol,Febuxostat,Low,No significant interaction
+Albuterol,Felodipine,Low,No significant interaction
+Albuterol,Hydrocortisone,Low,No significant interaction
+Albuterol,Insulin,Low,No significant interaction
+Albuterol,Ipratropium,Low,No significant interaction
+Albuterol,Itraconazole,Low,No significant interaction
+Albuterol,Levetiracetam,Low,No significant interaction
+Albuterol,Loperamide,Low,No significant interaction
+Albuterol,Methotrexate,Low,No significant interaction
+Albuterol,Methylprednisolone,Low,No significant interaction
+Albuterol,Metoclopramide,Low,No significant interaction
+Albuterol,Nebivolol,Low,No significant interaction
+Albuterol,Nifedipine,Low,No significant interaction
+Albuterol,Olmesartan,Low,No significant interaction
+Albuterol,Ondansetron,Low,No significant interaction
+Albuterol,Oxcarbazepine,Low,No significant interaction
+Albuterol,Paroxetine,Low,No significant interaction
+Albuterol,Pioglitazone,Low,No significant interaction
+Albuterol,Pravastatin,Low,No significant interaction
+Albuterol,Pregabalin,Low,No significant interaction
+Albuterol,Propranolol,Moderate,Beta-blockade may blunt bronchodilator effect
+Albuterol,Rabeprazole,Low,No significant interaction
+Albuterol,Ranitidine,Low,No significant interaction
+Albuterol,Telmisartan,Low,No significant interaction
+Azithromycin,Cephalexin,Low,No significant interaction
+Azithromycin,Cetirizine,Low,No significant interaction
+Azithromycin,Duloxetine,Low,No significant interaction
+Azithromycin,Eplerenone,Low,No significant interaction
+Azithromycin,Esomeprazole,Low,No significant interaction
+Azithromycin,Famotidine,Low,No significant interaction
+Azithromycin,Febuxostat,Low,No significant interaction
+Azithromycin,Felodipine,Low,No significant interaction
+Azithromycin,Hydrocortisone,Low,No significant interaction
+Azithromycin,Insulin,Low,No significant interaction
+Azithromycin,Ipratropium,Low,No significant interaction
+Azithromycin,Itraconazole,Moderate,QT prolongation risk
+Azithromycin,Levetiracetam,Low,No significant interaction
+Azithromycin,Loperamide,Low,No significant interaction
+Azithromycin,Methotrexate,Low,No significant interaction
+Azithromycin,Methylprednisolone,Low,No significant interaction
+Azithromycin,Metoclopramide,Low,No significant interaction
+Azithromycin,Nebivolol,Low,No significant interaction
+Azithromycin,Nifedipine,Low,No significant interaction
+Azithromycin,Olmesartan,Low,No significant interaction
+Azithromycin,Ondansetron,Low,No significant interaction
+Azithromycin,Oxcarbazepine,Low,No significant interaction
+Azithromycin,Paroxetine,Low,No significant interaction
+Azithromycin,Pioglitazone,Low,No significant interaction
+Azithromycin,Pravastatin,Low,No significant interaction
+Azithromycin,Pregabalin,Low,No significant interaction
+Azithromycin,Propranolol,Low,No significant interaction
+Azithromycin,Rabeprazole,Low,No significant interaction
+Azithromycin,Ranitidine,Low,No significant interaction
+Azithromycin,Telmisartan,Low,No significant interaction
+Cephalexin,Cetirizine,Low,No significant interaction
+Cephalexin,Duloxetine,Low,No significant interaction
+Cephalexin,Eplerenone,Low,No significant interaction
+Cephalexin,Esomeprazole,Low,No significant interaction
+Cephalexin,Famotidine,Low,No significant interaction
+Cephalexin,Febuxostat,Low,No significant interaction
+Cephalexin,Felodipine,Low,No significant interaction
+Cephalexin,Hydrocortisone,Low,No significant interaction
+Cephalexin,Insulin,Low,No significant interaction
+Cephalexin,Ipratropium,Low,No significant interaction
+Cephalexin,Itraconazole,Low,No significant interaction
+Cephalexin,Levetiracetam,Low,No significant interaction
+Cephalexin,Loperamide,Low,No significant interaction
+Cephalexin,Methotrexate,Low,No significant interaction
+Cephalexin,Methylprednisolone,Low,No significant interaction
+Cephalexin,Metoclopramide,Low,No significant interaction
+Cephalexin,Nebivolol,Low,No significant interaction
+Cephalexin,Nifedipine,Low,No significant interaction
+Cephalexin,Olmesartan,Low,No significant interaction
+Cephalexin,Ondansetron,Low,No significant interaction
+Cephalexin,Oxcarbazepine,Low,No significant interaction
+Cephalexin,Paroxetine,Low,No significant interaction
+Cephalexin,Pioglitazone,Low,No significant interaction
+Cephalexin,Pravastatin,Low,No significant interaction
+Cephalexin,Pregabalin,Low,No significant interaction
+Cephalexin,Propranolol,Low,No significant interaction
+Cephalexin,Rabeprazole,Low,No significant interaction
+Cephalexin,Ranitidine,Low,No significant interaction
+Cephalexin,Telmisartan,Low,No significant interaction
+Cetirizine,Duloxetine,Low,No significant interaction
+Cetirizine,Eplerenone,Low,No significant interaction
+Cetirizine,Esomeprazole,Low,No significant interaction
+Cetirizine,Famotidine,Low,No significant interaction
+Cetirizine,Febuxostat,Low,No significant interaction
+Cetirizine,Felodipine,Low,No significant interaction
+Cetirizine,Hydrocortisone,Low,No significant interaction
+Cetirizine,Insulin,Low,No significant interaction
+Cetirizine,Ipratropium,Low,No significant interaction
+Cetirizine,Itraconazole,Low,No significant interaction
+Cetirizine,Levetiracetam,Low,No significant interaction
+Cetirizine,Loperamide,Low,No significant interaction
+Cetirizine,Methotrexate,Low,No significant interaction
+Cetirizine,Methylprednisolone,Low,No significant interaction
+Cetirizine,Metoclopramide,Low,No significant interaction
+Cetirizine,Nebivolol,Low,No significant interaction
+Cetirizine,Nifedipine,Low,No significant interaction
+Cetirizine,Olmesartan,Low,No significant interaction
+Cetirizine,Ondansetron,Low,No significant interaction
+Cetirizine,Oxcarbazepine,Low,No significant interaction
+Cetirizine,Paroxetine,Low,No significant interaction
+Cetirizine,Pioglitazone,Low,No significant interaction
+Cetirizine,Pravastatin,Low,No significant interaction
+Cetirizine,Pregabalin,Low,No significant interaction
+Cetirizine,Propranolol,Low,No significant interaction
+Cetirizine,Rabeprazole,Low,No significant interaction
+Cetirizine,Ranitidine,Low,No significant interaction
+Cetirizine,Telmisartan,Low,No significant interaction
+Duloxetine,Eplerenone,Low,No significant interaction
+Duloxetine,Esomeprazole,Low,No significant interaction
+Duloxetine,Famotidine,Low,No significant interaction
+Duloxetine,Febuxostat,Low,No significant interaction
+Duloxetine,Felodipine,Low,No significant interaction
+Duloxetine,Hydrocortisone,Low,No significant interaction
+Duloxetine,Insulin,Low,No significant interaction
+Duloxetine,Ipratropium,Low,No significant interaction
+Duloxetine,Itraconazole,Low,No significant interaction
+Duloxetine,Levetiracetam,Low,No significant interaction
+Duloxetine,Loperamide,Low,No significant interaction
+Duloxetine,Methotrexate,Low,No significant interaction
+Duloxetine,Methylprednisolone,Low,No significant interaction
+Duloxetine,Metoclopramide,Low,No significant interaction
+Duloxetine,Nebivolol,Low,No significant interaction
+Duloxetine,Nifedipine,Low,No significant interaction
+Duloxetine,Olmesartan,Low,No significant interaction
+Duloxetine,Ondansetron,High,Serotonin syndrome risk
+Duloxetine,Oxcarbazepine,Low,No significant interaction
+Duloxetine,Paroxetine,High,Serotonin syndrome risk
+Duloxetine,Pioglitazone,Low,No significant interaction
+Duloxetine,Pravastatin,Low,No significant interaction
+Duloxetine,Pregabalin,Low,No significant interaction
+Duloxetine,Propranolol,Low,No significant interaction
+Duloxetine,Rabeprazole,Low,No significant interaction
+Duloxetine,Ranitidine,Low,No significant interaction
+Duloxetine,Telmisartan,Low,No significant interaction
+Eplerenone,Esomeprazole,Low,No significant interaction
+Eplerenone,Famotidine,Low,No significant interaction
+Eplerenone,Febuxostat,Low,No significant interaction
+Eplerenone,Felodipine,Low,No significant interaction
+Eplerenone,Hydrocortisone,Low,No significant interaction
+Eplerenone,Insulin,Low,No significant interaction
+Eplerenone,Ipratropium,Low,No significant interaction
+Eplerenone,Itraconazole,Low,No significant interaction
+Eplerenone,Levetiracetam,Low,No significant interaction
+Eplerenone,Loperamide,Low,No significant interaction
+Eplerenone,Methotrexate,Low,No significant interaction
+Eplerenone,Methylprednisolone,Low,No significant interaction
+Eplerenone,Metoclopramide,Low,No significant interaction
+Eplerenone,Nebivolol,Low,No significant interaction
+Eplerenone,Nifedipine,Low,No significant interaction
+Eplerenone,Olmesartan,High,Hyperkalemia and renal impairment risk
+Eplerenone,Ondansetron,Low,No significant interaction
+Eplerenone,Oxcarbazepine,Low,No significant interaction
+Eplerenone,Paroxetine,Low,No significant interaction
+Eplerenone,Pioglitazone,Low,No significant interaction
+Eplerenone,Pravastatin,Low,No significant interaction
+Eplerenone,Pregabalin,Low,No significant interaction
+Eplerenone,Propranolol,Low,No significant interaction
+Eplerenone,Rabeprazole,Low,No significant interaction
+Eplerenone,Ranitidine,Low,No significant interaction
+Eplerenone,Telmisartan,High,Hyperkalemia and renal impairment risk
+Esomeprazole,Famotidine,Low,No significant interaction
+Esomeprazole,Febuxostat,Low,No significant interaction
+Esomeprazole,Felodipine,Low,No significant interaction
+Esomeprazole,Hydrocortisone,Low,No significant interaction
+Esomeprazole,Insulin,Low,No significant interaction
+Esomeprazole,Ipratropium,Low,No significant interaction
+Esomeprazole,Itraconazole,Low,No significant interaction
+Esomeprazole,Levetiracetam,Low,No significant interaction
+Esomeprazole,Loperamide,Low,No significant interaction
+Esomeprazole,Methotrexate,Low,No significant interaction
+Esomeprazole,Methylprednisolone,Low,No significant interaction
+Esomeprazole,Metoclopramide,Low,No significant interaction
+Esomeprazole,Nebivolol,Low,No significant interaction
+Esomeprazole,Nifedipine,Low,No significant interaction
+Esomeprazole,Olmesartan,Low,No significant interaction
+Esomeprazole,Ondansetron,Low,No significant interaction
+Esomeprazole,Oxcarbazepine,Low,No significant interaction
+Esomeprazole,Paroxetine,Low,No significant interaction
+Esomeprazole,Pioglitazone,Low,No significant interaction
+Esomeprazole,Pravastatin,Low,No significant interaction
+Esomeprazole,Pregabalin,Low,No significant interaction
+Esomeprazole,Propranolol,Low,No significant interaction
+Esomeprazole,Rabeprazole,Low,No significant interaction
+Esomeprazole,Ranitidine,Low,No significant interaction
+Esomeprazole,Telmisartan,Low,No significant interaction
+Famotidine,Febuxostat,Low,No significant interaction
+Famotidine,Felodipine,Low,No significant interaction
+Famotidine,Hydrocortisone,Low,No significant interaction
+Famotidine,Insulin,Low,No significant interaction
+Famotidine,Ipratropium,Low,No significant interaction
+Famotidine,Itraconazole,Low,No significant interaction
+Famotidine,Levetiracetam,Low,No significant interaction
+Famotidine,Loperamide,Low,No significant interaction
+Famotidine,Methotrexate,Low,No significant interaction
+Famotidine,Methylprednisolone,Low,No significant interaction
+Famotidine,Metoclopramide,Low,No significant interaction
+Famotidine,Nebivolol,Low,No significant interaction
+Famotidine,Nifedipine,Low,No significant interaction
+Famotidine,Olmesartan,Low,No significant interaction
+Famotidine,Ondansetron,Low,No significant interaction
+Famotidine,Oxcarbazepine,Low,No significant interaction
+Famotidine,Paroxetine,Low,No significant interaction
+Famotidine,Pioglitazone,Low,No significant interaction
+Famotidine,Pravastatin,Low,No significant interaction
+Famotidine,Pregabalin,Low,No significant interaction
+Famotidine,Propranolol,Low,No significant interaction
+Famotidine,Rabeprazole,Low,No significant interaction
+Famotidine,Ranitidine,Low,No significant interaction
+Famotidine,Telmisartan,Low,No significant interaction
+Febuxostat,Felodipine,Low,No significant interaction
+Febuxostat,Hydrocortisone,Low,No significant interaction
+Febuxostat,Insulin,Low,No significant interaction
+Febuxostat,Ipratropium,Low,No significant interaction
+Febuxostat,Itraconazole,Low,No significant interaction
+Febuxostat,Levetiracetam,Low,No significant interaction
+Febuxostat,Loperamide,Low,No significant interaction
+Febuxostat,Methotrexate,Low,No significant interaction
+Febuxostat,Methylprednisolone,Low,No significant interaction
+Febuxostat,Metoclopramide,Low,No significant interaction
+Febuxostat,Nebivolol,Low,No significant interaction
+Febuxostat,Nifedipine,Low,No significant interaction
+Febuxostat,Olmesartan,Low,No significant interaction
+Febuxostat,Ondansetron,Low,No significant interaction
+Febuxostat,Oxcarbazepine,Low,No significant interaction
+Febuxostat,Paroxetine,Low,No significant interaction
+Febuxostat,Pioglitazone,Low,No significant interaction
+Febuxostat,Pravastatin,Low,No significant interaction
+Febuxostat,Pregabalin,Low,No significant interaction
+Febuxostat,Propranolol,Low,No significant interaction
+Febuxostat,Rabeprazole,Low,No significant interaction
+Febuxostat,Ranitidine,Low,No significant interaction
+Febuxostat,Telmisartan,Low,No significant interaction
+Felodipine,Hydrocortisone,Low,No significant interaction
+Felodipine,Insulin,Low,No significant interaction
+Felodipine,Ipratropium,Low,No significant interaction
+Felodipine,Itraconazole,Low,No significant interaction
+Felodipine,Levetiracetam,Low,No significant interaction
+Felodipine,Loperamide,Low,No significant interaction
+Felodipine,Methotrexate,Low,No significant interaction
+Felodipine,Methylprednisolone,Low,No significant interaction
+Felodipine,Metoclopramide,Low,No significant interaction
+Felodipine,Nebivolol,Low,No significant interaction
+Felodipine,Nifedipine,Low,No significant interaction
+Felodipine,Olmesartan,Low,No significant interaction
+Felodipine,Ondansetron,Low,No significant interaction
+Felodipine,Oxcarbazepine,Low,No significant interaction
+Felodipine,Paroxetine,Low,No significant interaction
+Felodipine,Pioglitazone,Low,No significant interaction
+Felodipine,Pravastatin,Low,No significant interaction
+Felodipine,Pregabalin,Low,No significant interaction
+Felodipine,Propranolol,Low,No significant interaction
+Felodipine,Rabeprazole,Low,No significant interaction
+Felodipine,Ranitidine,Low,No significant interaction
+Felodipine,Telmisartan,Low,No significant interaction
+Hydrocortisone,Insulin,Low,No significant interaction
+Hydrocortisone,Ipratropium,Low,No significant interaction
+Hydrocortisone,Itraconazole,Low,No significant interaction
+Hydrocortisone,Levetiracetam,Low,No significant interaction
+Hydrocortisone,Loperamide,Low,No significant interaction
+Hydrocortisone,Methotrexate,Low,No significant interaction
+Hydrocortisone,Methylprednisolone,Low,No significant interaction
+Hydrocortisone,Metoclopramide,Low,No significant interaction
+Hydrocortisone,Nebivolol,Low,No significant interaction
+Hydrocortisone,Nifedipine,Low,No significant interaction
+Hydrocortisone,Olmesartan,Low,No significant interaction
+Hydrocortisone,Ondansetron,Low,No significant interaction
+Hydrocortisone,Oxcarbazepine,Low,No significant interaction
+Hydrocortisone,Paroxetine,Low,No significant interaction
+Hydrocortisone,Pioglitazone,Low,No significant interaction
+Hydrocortisone,Pravastatin,Low,No significant interaction
+Hydrocortisone,Pregabalin,Low,No significant interaction
+Hydrocortisone,Propranolol,Low,No significant interaction
+Hydrocortisone,Rabeprazole,Low,No significant interaction
+Hydrocortisone,Ranitidine,Low,No significant interaction
+Hydrocortisone,Telmisartan,Low,No significant interaction
+Insulin,Ipratropium,Low,No significant interaction
+Insulin,Itraconazole,Low,No significant interaction
+Insulin,Levetiracetam,Low,No significant interaction
+Insulin,Loperamide,Low,No significant interaction
+Insulin,Methotrexate,Low,No significant interaction
+Insulin,Methylprednisolone,Low,No significant interaction
+Insulin,Metoclopramide,Low,No significant interaction
+Insulin,Nebivolol,Low,No significant interaction
+Insulin,Nifedipine,Low,No significant interaction
+Insulin,Olmesartan,Low,No significant interaction
+Insulin,Ondansetron,Low,No significant interaction
+Insulin,Oxcarbazepine,Low,No significant interaction
+Insulin,Paroxetine,Low,No significant interaction
+Insulin,Pioglitazone,Low,No significant interaction
+Insulin,Pravastatin,Low,No significant interaction
+Insulin,Pregabalin,Low,No significant interaction
+Insulin,Propranolol,Low,No significant interaction
+Insulin,Rabeprazole,Low,No significant interaction
+Insulin,Ranitidine,Low,No significant interaction
+Insulin,Telmisartan,Low,No significant interaction
+Ipratropium,Itraconazole,Low,No significant interaction
+Ipratropium,Levetiracetam,Low,No significant interaction
+Ipratropium,Loperamide,Low,No significant interaction
+Ipratropium,Methotrexate,Low,No significant interaction
+Ipratropium,Methylprednisolone,Low,No significant interaction
+Ipratropium,Metoclopramide,Low,No significant interaction
+Ipratropium,Nebivolol,Low,No significant interaction
+Ipratropium,Nifedipine,Low,No significant interaction
+Ipratropium,Olmesartan,Low,No significant interaction
+Ipratropium,Ondansetron,Low,No significant interaction
+Ipratropium,Oxcarbazepine,Low,No significant interaction
+Ipratropium,Paroxetine,Low,No significant interaction
+Ipratropium,Pioglitazone,Low,No significant interaction
+Ipratropium,Pravastatin,Low,No significant interaction
+Ipratropium,Pregabalin,Low,No significant interaction
+Ipratropium,Propranolol,Low,No significant interaction
+Ipratropium,Rabeprazole,Low,No significant interaction
+Ipratropium,Ranitidine,Low,No significant interaction
+Ipratropium,Telmisartan,Low,No significant interaction
+Itraconazole,Levetiracetam,Low,No significant interaction
+Itraconazole,Loperamide,Low,No significant interaction
+Itraconazole,Methotrexate,Low,No significant interaction
+Itraconazole,Methylprednisolone,Low,No significant interaction
+Itraconazole,Metoclopramide,Low,No significant interaction
+Itraconazole,Nebivolol,Low,No significant interaction
+Itraconazole,Nifedipine,Low,No significant interaction
+Itraconazole,Olmesartan,Low,No significant interaction
+Itraconazole,Ondansetron,Low,No significant interaction
+Itraconazole,Oxcarbazepine,Low,No significant interaction
+Itraconazole,Paroxetine,Low,No significant interaction
+Itraconazole,Pioglitazone,Low,No significant interaction
+Itraconazole,Pravastatin,Moderate,Increased risk of myopathy
+Itraconazole,Pregabalin,Low,No significant interaction
+Itraconazole,Propranolol,Low,No significant interaction
+Itraconazole,Rabeprazole,Low,No significant interaction
+Itraconazole,Ranitidine,Low,No significant interaction
+Itraconazole,Telmisartan,Low,No significant interaction
+Levetiracetam,Loperamide,Low,No significant interaction
+Levetiracetam,Methotrexate,Low,No significant interaction
+Levetiracetam,Methylprednisolone,Low,No significant interaction
+Levetiracetam,Metoclopramide,Low,No significant interaction
+Levetiracetam,Nebivolol,Low,No significant interaction
+Levetiracetam,Nifedipine,Low,No significant interaction
+Levetiracetam,Olmesartan,Low,No significant interaction
+Levetiracetam,Ondansetron,Low,No significant interaction
+Levetiracetam,Oxcarbazepine,Low,No significant interaction
+Levetiracetam,Paroxetine,Low,No significant interaction
+Levetiracetam,Pioglitazone,Low,No significant interaction
+Levetiracetam,Pravastatin,Low,No significant interaction
+Levetiracetam,Pregabalin,Low,No significant interaction
+Levetiracetam,Propranolol,Low,No significant interaction
+Levetiracetam,Rabeprazole,Low,No significant interaction
+Levetiracetam,Ranitidine,Low,No significant interaction
+Levetiracetam,Telmisartan,Low,No significant interaction
+Loperamide,Methotrexate,Low,No significant interaction
+Loperamide,Methylprednisolone,Low,No significant interaction
+Loperamide,Metoclopramide,Low,No significant interaction
+Loperamide,Nebivolol,Low,No significant interaction
+Loperamide,Nifedipine,Low,No significant interaction
+Loperamide,Olmesartan,Low,No significant interaction
+Loperamide,Ondansetron,Low,No significant interaction
+Loperamide,Oxcarbazepine,Low,No significant interaction
+Loperamide,Paroxetine,Low,No significant interaction
+Loperamide,Pioglitazone,Low,No significant interaction
+Loperamide,Pravastatin,Low,No significant interaction
+Loperamide,Pregabalin,Low,No significant interaction
+Loperamide,Propranolol,Low,No significant interaction
+Loperamide,Rabeprazole,Low,No significant interaction
+Loperamide,Ranitidine,Low,No significant interaction
+Loperamide,Telmisartan,Low,No significant interaction
+Methotrexate,Methylprednisolone,Low,No significant interaction
+Methotrexate,Metoclopramide,Low,No significant interaction
+Methotrexate,Nebivolol,Low,No significant interaction
+Methotrexate,Nifedipine,Low,No significant interaction
+Methotrexate,Olmesartan,Low,No significant interaction
+Methotrexate,Ondansetron,Low,No significant interaction
+Methotrexate,Oxcarbazepine,Low,No significant interaction
+Methotrexate,Paroxetine,Low,No significant interaction
+Methotrexate,Pioglitazone,Low,No significant interaction
+Methotrexate,Pravastatin,Low,No significant interaction
+Methotrexate,Pregabalin,Low,No significant interaction
+Methotrexate,Propranolol,Low,No significant interaction
+Methotrexate,Rabeprazole,Low,No significant interaction
+Methotrexate,Ranitidine,Low,No significant interaction
+Methotrexate,Telmisartan,Low,No significant interaction
+Methylprednisolone,Metoclopramide,Low,No significant interaction
+Methylprednisolone,Nebivolol,Low,No significant interaction
+Methylprednisolone,Nifedipine,Low,No significant interaction
+Methylprednisolone,Olmesartan,Low,No significant interaction
+Methylprednisolone,Ondansetron,Low,No significant interaction
+Methylprednisolone,Oxcarbazepine,Low,No significant interaction
+Methylprednisolone,Paroxetine,Low,No significant interaction
+Methylprednisolone,Pioglitazone,Low,No significant interaction
+Methylprednisolone,Pravastatin,Low,No significant interaction
+Methylprednisolone,Pregabalin,Low,No significant interaction
+Methylprednisolone,Propranolol,Low,No significant interaction
+Methylprednisolone,Rabeprazole,Low,No significant interaction
+Methylprednisolone,Ranitidine,Low,No significant interaction
+Methylprednisolone,Telmisartan,Low,No significant interaction
+Metoclopramide,Nebivolol,Low,No significant interaction
+Metoclopramide,Nifedipine,Low,No significant interaction
+Metoclopramide,Olmesartan,Low,No significant interaction
+Metoclopramide,Ondansetron,Low,No significant interaction
+Metoclopramide,Oxcarbazepine,Low,No significant interaction
+Metoclopramide,Paroxetine,Low,No significant interaction
+Metoclopramide,Pioglitazone,Low,No significant interaction
+Metoclopramide,Pravastatin,Low,No significant interaction
+Metoclopramide,Pregabalin,Low,No significant interaction
+Metoclopramide,Propranolol,Low,No significant interaction
+Metoclopramide,Rabeprazole,Low,No significant interaction
+Metoclopramide,Ranitidine,Low,No significant interaction
+Metoclopramide,Telmisartan,Low,No significant interaction
+Nebivolol,Nifedipine,Low,No significant interaction
+Nebivolol,Olmesartan,Low,No significant interaction
+Nebivolol,Ondansetron,Low,No significant interaction
+Nebivolol,Oxcarbazepine,Low,No significant interaction
+Nebivolol,Paroxetine,Low,No significant interaction
+Nebivolol,Pioglitazone,Low,No significant interaction
+Nebivolol,Pravastatin,Low,No significant interaction
+Nebivolol,Pregabalin,Low,No significant interaction
+Nebivolol,Propranolol,High,Severe bradycardia and hypotension (avoid)
+Nebivolol,Rabeprazole,Low,No significant interaction
+Nebivolol,Ranitidine,Low,No significant interaction
+Nebivolol,Telmisartan,Low,No significant interaction
+Nifedipine,Olmesartan,Low,No significant interaction
+Nifedipine,Ondansetron,Low,No significant interaction
+Nifedipine,Oxcarbazepine,Low,No significant interaction
+Nifedipine,Paroxetine,Low,No significant interaction
+Nifedipine,Pioglitazone,Low,No significant interaction
+Nifedipine,Pravastatin,Low,No significant interaction
+Nifedipine,Pregabalin,Low,No significant interaction
+Nifedipine,Propranolol,Moderate,Additive hypotension
+Nifedipine,Rabeprazole,Low,No significant interaction
+Nifedipine,Ranitidine,Low,No significant interaction
+Nifedipine,Telmisartan,Low,No significant interaction
+Olmesartan,Ondansetron,Low,No significant interaction
+Olmesartan,Oxcarbazepine,Low,No significant interaction
+Olmesartan,Paroxetine,Low,No significant interaction
+Olmesartan,Pioglitazone,Low,No significant interaction
+Olmesartan,Pravastatin,Low,No significant interaction
+Olmesartan,Pregabalin,Low,No significant interaction
+Olmesartan,Propranolol,Low,No significant interaction
+Olmesartan,Rabeprazole,Low,No significant interaction
+Olmesartan,Ranitidine,Low,No significant interaction
+Olmesartan,Telmisartan,Low,No significant interaction
+Ondansetron,Oxcarbazepine,Low,No significant interaction
+Ondansetron,Paroxetine,High,Serotonin syndrome risk
+Ondansetron,Pioglitazone,Low,No significant interaction
+Ondansetron,Pravastatin,Low,No significant interaction
+Ondansetron,Pregabalin,Low,No significant interaction
+Ondansetron,Propranolol,Low,No significant interaction
+Ondansetron,Rabeprazole,Low,No significant interaction
+Ondansetron,Ranitidine,Low,No significant interaction
+Ondansetron,Telmisartan,Low,No significant interaction
+Oxcarbazepine,Paroxetine,Low,No significant interaction
+Oxcarbazepine,Pioglitazone,Low,No significant interaction
+Oxcarbazepine,Pravastatin,Low,No significant interaction
+Oxcarbazepine,Pregabalin,Low,No significant interaction
+Oxcarbazepine,Propranolol,Low,No significant interaction
+Oxcarbazepine,Rabeprazole,Low,No significant interaction
+Oxcarbazepine,Ranitidine,Low,No significant interaction
+Oxcarbazepine,Telmisartan,Low,No significant interaction
+Paroxetine,Pioglitazone,Low,No significant interaction
+Paroxetine,Pravastatin,Low,No significant interaction
+Paroxetine,Pregabalin,Low,No significant interaction
+Paroxetine,Propranolol,Low,No significant interaction
+Paroxetine,Rabeprazole,Low,No significant interaction
+Paroxetine,Ranitidine,Low,No significant interaction
+Paroxetine,Telmisartan,Low,No significant interaction
+Pioglitazone,Pravastatin,Low,No significant interaction
+Pioglitazone,Pregabalin,Low,No significant interaction
+Pioglitazone,Propranolol,Low,No significant interaction
+Pioglitazone,Rabeprazole,Low,No significant interaction
+Pioglitazone,Ranitidine,Low,No significant interaction
+Pioglitazone,Telmisartan,Low,No significant interaction
+Pravastatin,Pregabalin,Low,No significant interaction
+Pravastatin,Propranolol,Low,No significant interaction
+Pravastatin,Rabeprazole,Low,No significant interaction
+Pravastatin,Ranitidine,Low,No significant interaction
+Pravastatin,Telmisartan,Low,No significant interaction
+Pregabalin,Propranolol,Low,No significant interaction
+Pregabalin,Rabeprazole,Low,No significant interaction
+Pregabalin,Ranitidine,Low,No significant interaction
+Pregabalin,Telmisartan,Low,No significant interaction
+Propranolol,Rabeprazole,Low,No significant interaction
+Propranolol,Ranitidine,Low,No significant interaction
+Propranolol,Telmisartan,Low,No significant interaction
+Rabeprazole,Ranitidine,Low,No significant interaction
+Rabeprazole,Telmisartan,Low,No significant interaction
+Ranitidine,Telmisartan,Low,No significant interaction
+Albuterol,Tiotropium,Low,No significant interaction
+Azithromycin,Tiotropium,Low,No significant interaction
+Cephalexin,Tiotropium,Low,No significant interaction
+Cetirizine,Tiotropium,Low,No significant interaction
+Duloxetine,Topiramate,Low,No significant interaction
+Eplerenone,Topiramate,Low,No significant interaction
+Esomeprazole,Topiramate,Low,No significant interaction
+Famotidine,Topiramate,Low,No significant interaction
+Febuxostat,Topiramate,Low,No significant interaction
+Felodipine,Topiramate,Low,No significant interaction
+Hydrocortisone,Topiramate,Low,No significant interaction
+Insulin,Topiramate,Low,No significant interaction
+Ipratropium,Topiramate,Low,No significant interaction
+Itraconazole,Topiramate,Low,No significant interaction
+Levetiracetam,Topiramate,Low,No significant interaction
+Loperamide,Topiramate,Low,No significant interaction
+Methotrexate,Topiramate,Moderate,Increased methotrexate toxicity
+Methylprednisolone,Topiramate,Low,No significant interaction
+Metoclopramide,Topiramate,Low,No significant interaction
+Nebivolol,Topiramate,Low,No significant interaction
+Nifedipine,Topiramate,Low,No significant interaction
+Olmesartan,Topiramate,Low,No significant interaction
+Ondansetron,Topiramate,Low,No significant interaction
+Oxcarbazepine,Topiramate,Low,No significant interaction
+Paroxetine,Topiramate,Low,No significant interaction
+Pioglitazone,Topiramate,Low,No significant interaction
+Pravastatin,Topiramate,Low,No significant interaction
+Pregabalin,Topiramate,Low,No significant interaction
+Propranolol,Topiramate,Low,No significant interaction
+Rabeprazole,Topiramate,Low,No significant interaction
+Ranitidine,Topiramate,Low,No significant interaction
+Telmisartan,Topiramate,Low,No significant interaction
+Tiotropium,Topiramate,Low,No significant interaction
+Tiotropium,Trazodone,Low,No significant interaction
+Tiotropium,Venlafaxine,Low,No significant interaction
+Tiotropium,Zolpidem,Low,No significant interaction
+Topiramate,Trazodone,Low,No significant interaction
+Topiramate,Venlafaxine,Low,No significant interaction
+Topiramate,Zolpidem,Moderate,Increased sedation
+Trazodone,Venlafaxine,High,Serotonin syndrome risk
+Trazodone,Zolpidem,High,Severe sedation and CNS depression
+Venlafaxine,Zolpidem,Moderate,Increased sedation and serotonin risk
+Albuterol,Trazodone,Low,No significant interaction
+Albuterol,Venlafaxine,Low,No significant interaction
+Albuterol,Zolpidem,Low,No significant interaction
+Azithromycin,Trazodone,Low,No significant interaction
+Azithromycin,Venlafaxine,Low,No significant interaction
+Azithromycin,Zolpidem,Low,No significant interaction
+Cephalexin,Trazodone,Low,No significant interaction
+Cephalexin,Venlafaxine,Low,No significant interaction
+Cephalexin,Zolpidem,Low,No significant interaction
+Cetirizine,Trazodone,Low,No significant interaction
+Cetirizine,Venlafaxine,Low,No significant interaction
+Cetirizine,Zolpidem,Low,No significant interaction
+Duloxetine,Trazodone,High,Serotonin syndrome risk
+Duloxetine,Venlafaxine,High,Serotonin syndrome risk
+Duloxetine,Zolpidem,Moderate,Increased sedation and serotonin risk
+Eplerenone,Trazodone,Low,No significant interaction
+Eplerenone,Venlafaxine,Low,No significant interaction
+Eplerenone,Zolpidem,Low,No significant interaction
+Esomeprazole,Trazodone,Low,No significant interaction
+Esomeprazole,Venlafaxine,Low,No significant interaction
+Esomeprazole,Zolpidem,Low,No significant interaction
+Famotidine,Trazodone,Low,No significant interaction
+Famotidine,Venlafaxine,Low,No significant interaction
+Famotidine,Zolpidem,Low,No significant interaction
+Febuxostat,Trazodone,Low,No significant interaction
+Febuxostat,Venlafaxine,Low,No significant interaction
+Febuxostat,Zolpidem,Low,No significant interaction
+Felodipine,Trazodone,Low,No significant interaction
+Felodipine,Venlafaxine,Low,No significant interaction
+Felodipine,Zolpidem,Low,No significant interaction
+Hydrocortisone,Trazodone,Low,No significant interaction
+Hydrocortisone,Venlafaxine,Low,No significant interaction
+Hydrocortisone,Zolpidem,Low,No significant interaction
+Insulin,Trazodone,Low,No significant interaction
+Insulin,Venlafaxine,Low,No significant interaction
+Insulin,Zolpidem,Low,No significant interaction
+Ipratropium,Trazodone,Low,No significant interaction
+Ipratropium,Venlafaxine,Low,No significant interaction
+Ipratropium,Zolpidem,Low,No significant interaction
+Itraconazole,Trazodone,Low,No significant interaction
+Itraconazole,Venlafaxine,Low,No significant interaction
+Itraconazole,Zolpidem,Moderate,Increased sedation and QT risk
+Levetiracetam,Trazodone,Low,No significant interaction
+Levetiracetam,Venlafaxine,Low,No significant interaction
+Levetiracetam,Zolpidem,Low,No significant interaction
+Loperamide,Trazodone,Low,No significant interaction
+Loperamide,Venlafaxine,Low,No significant interaction
+Loperamide,Zolpidem,Low,No significant interaction
+Methotrexate,Trazodone,Low,No significant interaction
+Methotrexate,Venlafaxine,Low,No significant interaction
+Methotrexate,Zolpidem,Low,No significant interaction
+Methylprednisolone,Trazodone,Low,No significant interaction
+Methylprednisolone,Venlafaxine,Low,No significant interaction
+Methylprednisolone,Zolpidem,Low,No significant interaction
+Metoclopramide,Trazodone,Low,No significant interaction
+Metoclopramide,Venlafaxine,Low,No significant interaction
+Metoclopramide,Zolpidem,Low,No significant interaction
+Nebivolol,Trazodone,Low,No significant interaction
+Nebivolol,Venlafaxine,Low,No significant interaction
+Nebivolol,Zolpidem,Low,No significant interaction
+Nifedipine,Trazodone,Low,No significant interaction
+Nifedipine,Venlafaxine,Low,No significant interaction
+Nifedipine,Zolpidem,Low,No significant interaction
+Olmesartan,Trazodone,Low,No significant interaction
+Olmesartan,Venlafaxine,Low,No significant interaction
+Olmesartan,Zolpidem,Low,No significant interaction
+Ondansetron,Trazodone,High,Serotonin syndrome risk
+Ondansetron,Venlafaxine,High,Serotonin syndrome risk
+Ondansetron,Zolpidem,Moderate,Increased sedation and serotonin risk
+Oxcarbazepine,Trazodone,Low,No significant interaction
+Oxcarbazepine,Venlafaxine,Low,No significant interaction
+Oxcarbazepine,Zolpidem,Low,No significant interaction
+Paroxetine,Trazodone,High,Serotonin syndrome risk
+Paroxetine,Venlafaxine,High,Serotonin syndrome risk
+Paroxetine,Zolpidem,Moderate,Increased sedation and serotonin risk
+Pioglitazone,Trazodone,Low,No significant interaction
+Pioglitazone,Venlafaxine,Low,No significant interaction
+Pioglitazone,Zolpidem,Low,No significant interaction
+Pravastatin,Trazodone,Low,No significant interaction
+Pravastatin,Venlafaxine,Low,No significant interaction
+Pravastatin,Zolpidem,Low,No significant interaction
+Pregabalin,Trazodone,High,Severe CNS depression
+Pregabalin,Venlafaxine,Moderate,Increased sedation and seizure risk
+Pregabalin,Zolpidem,High,Severe CNS depression
+Propranolol,Trazodone,Moderate,Additive hypotension and sedation
+Propranolol,Venlafaxine,Low,No significant interaction
+Propranolol,Zolpidem,Moderate,Increased sedation
+Rabeprazole,Trazodone,Low,No significant interaction
+Rabeprazole,Venlafaxine,Low,No significant interaction
+Rabeprazole,Zolpidem,Low,No significant interaction
+Ranitidine,Trazodone,Low,No significant interaction
+Ranitidine,Venlafaxine,Low,No significant interaction
+Ranitidine,Zolpidem,Low,No significant interaction
+Telmisartan,Trazodone,Low,No significant interaction
+Telmisartan,Venlafaxine,Low,No significant interaction
+Telmisartan,Zolpidem,Low,No significant interaction
